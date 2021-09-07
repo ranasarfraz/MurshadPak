@@ -9,7 +9,7 @@
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "HaveFacebookRewardedAd": false,
-      "BundleVersionCode": "2.1",
+      "BundleVersionCode": "2.2",
       "InterstitialAdDelayTime": "25",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUF"
@@ -37,7 +37,7 @@
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "HaveFacebookRewardedAd": false,
-      "BundleVersionCode": "2.1",
+      "BundleVersionCode": "2.2",
       "InterstitialAdDelayTime": "25",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUF"
@@ -51,7 +51,7 @@
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "HaveFacebookRewardedAd": false,
-      "BundleVersionCode": "2.4",
+      "BundleVersionCode": "2.5",
       "InterstitialAdDelayTime": "25",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUF"
@@ -65,7 +65,7 @@
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "HaveFacebookRewardedAd": false,
-      "BundleVersionCode": "2.1",
+      "BundleVersionCode": "2.2",
       "InterstitialAdDelayTime": "25",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUF"
