@@ -166,7 +166,7 @@
       "BundleVersionCode": "2.2",
       "InterstitialAdDelayTime": "25",
       "RewardedAdDelayTime": "30",
-      "AdNetworksPriority": "AUF"
+      "AdNetworksPriority": "UAF"
     },
     {
       "BundleId": "com.extremesimulator.impossibletracks.mega.ramps.carstunts.stuntdriving.jet.car.racinggames",
