@@ -23,7 +23,7 @@
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "HaveFacebookRewardedAd": false,
-      "BundleVersionCode": "3.3",
+      "BundleVersionCode": "3.4",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUF"
