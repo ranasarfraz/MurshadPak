@@ -320,7 +320,7 @@
       "BundleVersionCode": "1.2",
       "InterstitialAdDelayTime": "0",
       "RewardedAdDelayTime": "0",
-      "AdNetworksPriority": "AUF"
+      "AdNetworksPriority": "CUF"
     }                          
   ]
 }
