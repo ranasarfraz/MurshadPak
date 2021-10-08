@@ -8,11 +8,11 @@
       "ShowAdmobNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
-      "IsAdmobLimited": false,
+      "IsAdmobLimited": true,
       "BundleVersionCode": "1.2",
       "InterstitialAdDelayTime": "18",
       "RewardedAdDelayTime": "30",
-      "AdNetworksPriority": "AUF"
+      "AdNetworksPriority": "AUC"
     },
     {
       "BundleId": "com.freepicklegamesstudio.huntingclash.wild.deerhunter.animal.snipershooting.games",
@@ -22,11 +22,11 @@
       "ShowAdmobNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
-      "IsAdmobLimited": false,
+      "IsAdmobLimited": true,
       "BundleVersionCode": "1.4",
       "InterstitialAdDelayTime": "18",
       "RewardedAdDelayTime": "30",
-      "AdNetworksPriority": "AUF"
+      "AdNetworksPriority": "AUC"
     },
     {
       "BundleId": "com.freepicklegamesstudio.train.robot.car.game.helicpter.transformation.games",
@@ -36,11 +36,11 @@
       "ShowAdmobNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
-      "IsAdmobLimited": false,
+      "IsAdmobLimited": true,
       "BundleVersionCode": "1.1",
       "InterstitialAdDelayTime": "18",
       "RewardedAdDelayTime": "30",
-      "AdNetworksPriority": "AUF"
+      "AdNetworksPriority": "AUC"
     },
     {
       "BundleId": "com.freepicklegamesstudio.real.train.crash.destruction.train.car.demolition.derby.simulator2021",
@@ -50,11 +50,11 @@
       "ShowAdmobNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
-      "IsAdmobLimited": false,
+      "IsAdmobLimited": true,
       "BundleVersionCode": "1.6",
       "InterstitialAdDelayTime": "18",
       "RewardedAdDelayTime": "30",
-      "AdNetworksPriority": "AUF"
+      "AdNetworksPriority": "AUC"
     },
     {
       "BundleId": "com.fpgs.traintrack.train.station.construction.simulator.excavatorgames",
@@ -64,11 +64,11 @@
       "ShowAdmobNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
-      "IsAdmobLimited": false,
+      "IsAdmobLimited": true,
       "BundleVersionCode": "1.1",
       "InterstitialAdDelayTime": "18",
       "RewardedAdDelayTime": "30",
-      "AdNetworksPriority": "AUF"
+      "AdNetworksPriority": "AUC"
     },
     {
       "BundleId": "com.fpgs.grand.prison.escape.bus.transport.escapemission.game",
@@ -78,11 +78,11 @@
       "ShowAdmobNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
-      "IsAdmobLimited": false,
+      "IsAdmobLimited": true,
       "BundleVersionCode": "1.2",
       "InterstitialAdDelayTime": "18",
       "RewardedAdDelayTime": "30",
-      "AdNetworksPriority": "AUF"
+      "AdNetworksPriority": "AUC"
     }                                     
   ]
 }
