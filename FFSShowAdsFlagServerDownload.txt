@@ -181,6 +181,20 @@
       "InterstitialAdDelayTime": "18",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUF"
-    }                                     
+    },
+    {
+      "BundleId": "com.xtremefunsimulator.virtual.pet.cat.family.petsimulator.kitten.catgames",
+      "ShowAdsFlag": true,
+      "ShowRewardedInterstitialAdsFlag": false,
+      "ShowCustomNativeAdsFlag": true,
+      "ShowAdmobNativeAdsFlag": false,
+      "ShowBannerAdsFlag": true,
+      "ShowRewardedAdsFlag": true,
+      "IsAdmobLimited": true,
+      "BundleVersionCode": "1.0",
+      "InterstitialAdDelayTime": "18",
+      "RewardedAdDelayTime": "30",
+      "AdNetworksPriority": "AUC"
+    }                                      
   ]
 }

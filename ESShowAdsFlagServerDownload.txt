@@ -309,6 +309,20 @@
       "AdNetworksPriority": "AUF"
     },
     {
+      "BundleId": "com.extremesimulator.real.cruise.ship.animal.transport.cargoship.driving.games",
+      "ShowAdsFlag": true,
+      "ShowRewardedInterstitialAdsFlag": false,
+      "ShowCustomNativeAdsFlag": true,
+      "ShowAdmobNativeAdsFlag": false,
+      "ShowBannerAdsFlag": true,
+      "ShowRewardedAdsFlag": true,
+      "IsAdmobLimited": true,
+      "BundleVersionCode": "1.2",
+      "InterstitialAdDelayTime": "18",
+      "RewardedAdDelayTime": "30",
+      "AdNetworksPriority": "AUC"
+    },
+    {
       "BundleId": "com.extemesimulator.nativeadsnew",
       "ShowAdsFlag": true,
       "ShowRewardedInterstitialAdsFlag": false,
@@ -316,7 +330,7 @@
       "ShowAdmobNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
-      "HaveFacebookRewardedAd": false,
+      "IsAdmobLimited": false,
       "BundleVersionCode": "1.2",
       "InterstitialAdDelayTime": "0",
       "RewardedAdDelayTime": "0",
