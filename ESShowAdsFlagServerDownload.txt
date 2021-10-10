@@ -233,10 +233,10 @@
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "HaveFacebookRewardedAd": false,
-      "BundleVersionCode": "1.5",
-      "InterstitialAdDelayTime": "10",
+      "BundleVersionCode": "1.6",
+      "InterstitialAdDelayTime": "20",
       "RewardedAdDelayTime": "30",
-      "AdNetworksPriority": "AUF"
+      "AdNetworksPriority": "AUC"
     },
     {
       "BundleId": "com.extremesimulator.car.demolition.derby.simulator.train.crash.destruction2021",
