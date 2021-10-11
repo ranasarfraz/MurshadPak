@@ -191,7 +191,7 @@
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": true,
-      "BundleVersionCode": "1.0",
+      "BundleVersionCode": "1.1",
       "InterstitialAdDelayTime": "18",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUC"
