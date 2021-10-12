@@ -23,10 +23,10 @@
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "HaveFacebookRewardedAd": false,
-      "BundleVersionCode": "3.4",
+      "BundleVersionCode": "3.5",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "30",
-      "AdNetworksPriority": "AUF"
+      "AdNetworksPriority": "AUC"
     },
     {
       "BundleId": "com.extreme.simulator.farming.simulation20.farmer.sim.modern.drone.heavy.tractor.farming.games2020",
@@ -163,10 +163,10 @@
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "HaveFacebookRewardedAd": false,
-      "BundleVersionCode": "2.2",
+      "BundleVersionCode": "2.3",
       "InterstitialAdDelayTime": "18",
       "RewardedAdDelayTime": "30",
-      "AdNetworksPriority": "UAF"
+      "AdNetworksPriority": "AUC"
     },
     {
       "BundleId": "com.extremesimulator.impossibletracks.mega.ramps.carstunts.stuntdriving.jet.car.racinggames",
