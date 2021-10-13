@@ -97,6 +97,20 @@
       "InterstitialAdDelayTime": "18",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUF" 
+    },
+    {
+      "BundleId": "com.ebag.prison.escape.adventure.grand.jailbreak.game",
+      "ShowAdsFlag": true,
+      "ShowRewardedInterstitialAdsFlag": false,
+      "ShowCustomNativeAdsFlag": true,
+      "ShowAdmobNativeAdsFlag": false,
+      "ShowBannerAdsFlag": true,
+      "ShowRewardedAdsFlag": true,
+      "HaveFacebookRewardedAd": false,
+      "BundleVersionCode": "1.0",
+      "InterstitialAdDelayTime": "18",
+      "RewardedAdDelayTime": "30",
+      "AdNetworksPriority": "AUC" 
     }                                       
   ]
 }
