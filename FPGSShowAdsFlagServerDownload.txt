@@ -9,8 +9,8 @@
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": true,
-      "BundleVersionCode": "1.5",
-      "InterstitialAdDelayTime": "18",
+      "BundleVersionCode": "1.6",
+      "InterstitialAdDelayTime": "22",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUC"
     },
@@ -23,8 +23,8 @@
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": true,
-      "BundleVersionCode": "1.5",
-      "InterstitialAdDelayTime": "18",
+      "BundleVersionCode": "1.6",
+      "InterstitialAdDelayTime": "22",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUC"
     },
@@ -38,7 +38,7 @@
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": true,
       "BundleVersionCode": "1.4",
-      "InterstitialAdDelayTime": "18",
+      "InterstitialAdDelayTime": "22",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUC"
     },
@@ -52,7 +52,7 @@
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": true,
       "BundleVersionCode": "1.8",
-      "InterstitialAdDelayTime": "18",
+      "InterstitialAdDelayTime": "22",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUC"
     },
@@ -66,7 +66,7 @@
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": true,
       "BundleVersionCode": "1.4",
-      "InterstitialAdDelayTime": "18",
+      "InterstitialAdDelayTime": "22",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUC"
     },
@@ -80,7 +80,7 @@
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": true,
       "BundleVersionCode": "1.5",
-      "InterstitialAdDelayTime": "18",
+      "InterstitialAdDelayTime": "22",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUC"
     },
@@ -94,9 +94,23 @@
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": true,
       "BundleVersionCode": "1.3",
-      "InterstitialAdDelayTime": "18",
+      "InterstitialAdDelayTime": "22",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUC"
-    }                                      
+    } ,
+    {
+      "BundleId": "com.fpgs.trucksimulator.truckgame.truckdriving.oiltankertransporter.eurotrucksimulator.truckgame",
+      "ShowAdsFlag": true,
+      "ShowRewardedInterstitialAdsFlag": false,
+      "ShowCustomNativeAdsFlag": true,
+      "ShowAdmobNativeAdsFlag": false,
+      "ShowBannerAdsFlag": true,
+      "ShowRewardedAdsFlag": true,
+      "IsAdmobLimited": true,
+      "BundleVersionCode": "1.0",
+      "InterstitialAdDelayTime": "22",
+      "RewardedAdDelayTime": "30",
+      "AdNetworksPriority": "AUC"
+    }                                       
   ]
 }
