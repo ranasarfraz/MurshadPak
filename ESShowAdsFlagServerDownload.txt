@@ -365,7 +365,7 @@
       "AdNetworksPriority": "AUC"
     },
     {
-      "BundleId": "sample",
+      "BundleId": "com.adspkg.issueresolver",
       "ShowAdsFlag": true,
       "ShowRewardedInterstitialAdsFlag": false,
       "ShowCustomNativeAdsFlag": true,
