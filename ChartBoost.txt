@@ -1,7 +1,7 @@
 
 {
-    "FirstGameBundleID":"com.extremesimulator.car.demolition.derby.simulator.train.crash.destruction2021",
-    "Gameurl1": "https://play.google.com/store/apps/details?id=com.extremesimulator.car.demolition.derby.simulator.train.crash.destruction2021",
-    "Gameurl2": "https://play.google.com/store/apps/details?id=com.extremesimulator.monster.truck.jam.truck4x4derby.crashdestruction4x4derby.mad.truck.driving.monster.legends2021"
+    "FirstGameBundleID":"com.extremesimulator.excavator.construction.houseconstruction.cityconstruction.truckgames",
+    "Gameurl1": "https://play.google.com/store/apps/details?id=com.extremesimulator.excavator.construction.houseconstruction.cityconstruction.truckgames",
+    "Gameurl2": "https://play.google.com/store/apps/details?id=com.extremesimulator.touristbus.offroad.simulator.busgame.busparking.hillstation.driving.games"
 }
 
