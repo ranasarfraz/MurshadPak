@@ -111,6 +111,21 @@
       "InterstitialAdDelayTime": "18",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUC" 
+    },
+    {
+      "BundleId": "com.abdul.ghafoor.boat.fishing.simulator2019",
+      "ShowAdsFlag": true,
+      "ShowRewardedInterstitialAdsFlag": false,
+      "ShowCustomNativeAdsFlag": true,
+      "ShowAdmobNativeAdsFlag": false,
+      "ShowBannerAdsFlag": true,
+      "ShowRewardedAdsFlag": true,
+      "HaveFacebookRewardedAd": false,
+      "BundleVersionCode": "2.5",
+      "InterstitialAdDelayTime": "21",
+      "RewardedAdDelayTime": "30",
+      "AdNetworksPriority": "AUF",
+      "AppleID": "1456766276"
     }                                       
   ]
 }
