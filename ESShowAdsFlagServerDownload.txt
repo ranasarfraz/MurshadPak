@@ -402,7 +402,7 @@
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": true,
       "BundleVersionCode": "1.2",
-      "InterstitialAdDelayTime": "22",
+      "InterstitialAdDelayTime": "35",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUC"
     },
