@@ -1,0 +1,18 @@
+{
+  "AdIds": [
+    {
+      "BundleId": "com.free.pickle.games.studio.heavy.excavator.city.construction.housebuilding.constructiongames",
+      "ShowAdsFlag": true,
+      "ShowRewardedInterstitialAdsFlag": false,
+      "ShowCustomNativeAdsFlag": true,
+      "ShowAdmobNativeAdsFlag": false,
+      "ShowBannerAdsFlag": true,
+      "ShowRewardedAdsFlag": true,
+      "IsAdmobLimited": true,
+      "BundleVersionCode": "1.0",
+      "InterstitialAdDelayTime": "18",
+      "RewardedAdDelayTime": "30",
+      "AdNetworksPriority": "AUC"
+    }                                      
+  ]
+}
