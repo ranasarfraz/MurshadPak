@@ -1,7 +1,7 @@
 {
   "AdIds": [
     {
-      "BundleId": "com.free.pickle.games.studio.heavy.excavator.city.construction.housebuilding.constructiongames",
+      "BundleId": "com.ds.advance.police.car.parkinggames.car.driver.simulator",
       "ShowAdsFlag": true,
       "ShowRewardedInterstitialAdsFlag": false,
       "ShowCustomNativeAdsFlag": true,
@@ -9,7 +9,7 @@
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": true,
-      "BundleVersionCode": "1.0",
+      "BundleVersionCode": "1.1",
       "InterstitialAdDelayTime": "18",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUC"
