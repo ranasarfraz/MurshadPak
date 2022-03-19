@@ -1,7 +1,7 @@
 
 {
-    "FirstGameBundleID":"com.extremesimulator.excavator.construction.houseconstruction.cityconstruction.truckgames",
-    "Gameurl1": "https://play.google.com/store/apps/details?id=com.extremesimulator.excavator.construction.houseconstruction.cityconstruction.truckgames",
-    "Gameurl2": "https://play.google.com/store/apps/details?id=com.extremesimulator.touristbus.offroad.simulator.busgame.busparking.hillstation.driving.games"
+    "FirstGameBundleID":"com.fpgs.trucksimulator.truckgame.truckdriving.oiltankertransporter.eurotrucksimulator.truckgame",
+    "Gameurl1": "https://play.google.com/store/apps/details?id=com.fpgs.trucksimulator.truckgame.truckdriving.oiltankertransporter.eurotrucksimulator.truckgame",
+    "Gameurl2": "https://play.google.com/store/apps/details?id=com.fpgs.offroadcargame.jeep.drivingschool.car.driving.games"
 }
 
