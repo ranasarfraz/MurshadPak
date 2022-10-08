@@ -318,7 +318,7 @@
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": true,
       "BundleVersionCode": "1.2",
-      "InterstitialAdDelayTime": "50",
+      "InterstitialAdDelayTime": "30",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUC"
     },
@@ -332,7 +332,21 @@
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": true,
       "BundleVersionCode": "1.3",
-      "InterstitialAdDelayTime": "50",
+      "InterstitialAdDelayTime": "30",
+      "RewardedAdDelayTime": "30",
+      "AdNetworksPriority": "AUC"
+    },
+    {
+      "BundleId": "com.fpgs.ultimatetrucksimulator.drivingschool.offroad.cargo.euro.truck.games",
+      "ShowAdsFlag": true,
+      "ShowRewardedInterstitialAdsFlag": false,
+      "ShowCustomNativeAdsFlag": true,
+      "ShowAdmobNativeAdsFlag": false,
+      "ShowBannerAdsFlag": true,
+      "ShowRewardedAdsFlag": true,
+      "IsAdmobLimited": true,
+      "BundleVersionCode": "1.1",
+      "InterstitialAdDelayTime": "30",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUC"
     }
