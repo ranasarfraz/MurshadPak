@@ -107,10 +107,11 @@
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": true,
-      "BundleVersionCode": "2.8",
-      "InterstitialAdDelayTime": "24",
+      "BundleVersionCode": "2.9",
+      "InterstitialAdDelayTime": "22",
       "RewardedAdDelayTime": "30",
-      "AdNetworksPriority": "AUC"
+      "AdNetworksPriority": "AU",
+      "DoPingMatters": false
     },
     {
       "BundleId": "com.fpgs.prisonbreak.grandjail.uspolice.escapemission.prisonescapegames",
