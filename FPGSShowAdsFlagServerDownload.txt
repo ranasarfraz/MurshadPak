@@ -109,7 +109,7 @@
       "IsAdmobLimited": true,
       "BundleVersionCode": "2.9",
       "InterstitialAdDelayTime": "22",
-      "RewardedAdDelayTime": "30",
+      "RewardedAdDelayTime": "3",
       "AdNetworksPriority": "AU",
       "DoPingMatters": false
     },
