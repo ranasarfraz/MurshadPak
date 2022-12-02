@@ -107,7 +107,7 @@
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": true,
-      "BundleVersionCode": "2.9",
+      "BundleVersionCode": "3.0",
       "InterstitialAdDelayTime": "18",
       "RewardedAdDelayTime": "3",
       "AdNetworksPriority": "AU",
