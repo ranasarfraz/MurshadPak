@@ -9,7 +9,7 @@
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": true,
-      "BundleVersionCode": "1.7",
+      "BundleVersionCode": "1.8",
       "InterstitialAdDelayTime": "18",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUC"
@@ -23,7 +23,7 @@
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": true,
-      "BundleVersionCode": "1.8",
+      "BundleVersionCode": "1.9",
       "InterstitialAdDelayTime": "18",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUC"
@@ -150,7 +150,7 @@
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": true,
-      "BundleVersionCode": "2.1",
+      "BundleVersionCode": "2.2",
       "InterstitialAdDelayTime": "18",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUC"
