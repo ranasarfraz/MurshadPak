@@ -392,6 +392,34 @@
       "InterstitialAdDelayTime": "30",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUC"
+    },
+    {
+      "BundleId": "com.fpgs.coachbus.simulator.offroad.indian.busdriving.citybus.drivingbusgames",
+      "ShowAdsFlag": true,
+      "ShowRewardedInterstitialAdsFlag": false,
+      "ShowCustomNativeAdsFlag": true,
+      "ShowAdmobNativeAdsFlag": false,
+      "ShowBannerAdsFlag": true,
+      "ShowRewardedAdsFlag": true,
+      "IsAdmobLimited": true,
+      "BundleVersionCode": "1.1",
+      "InterstitialAdDelayTime": "30",
+      "RewardedAdDelayTime": "30",
+      "AdNetworksPriority": "AUC"
+    },
+    {
+      "BundleId": "com.fpgs.offroad.delivery.indiantruck.driving.trucksimulator.heavytruck.offroad.truckgame",
+      "ShowAdsFlag": true,
+      "ShowRewardedInterstitialAdsFlag": false,
+      "ShowCustomNativeAdsFlag": true,
+      "ShowAdmobNativeAdsFlag": false,
+      "ShowBannerAdsFlag": true,
+      "ShowRewardedAdsFlag": true,
+      "IsAdmobLimited": true,
+      "BundleVersionCode": "1.1",
+      "InterstitialAdDelayTime": "30",
+      "RewardedAdDelayTime": "30",
+      "AdNetworksPriority": "AUC"
     }
   ]
 }
