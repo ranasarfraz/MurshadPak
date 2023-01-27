@@ -114,7 +114,7 @@
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": true,
-      "HaveMultipleApks": false,
+      "HaveMultipleApks": true,
       "BundleVersionCode": "3.5",
       "InterstitialAdDelayTime": "45",
       "RewardedAdDelayTime": "3",
