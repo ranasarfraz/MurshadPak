@@ -85,7 +85,7 @@
       "ShowRewardedAdsFlag": true,
       "HaveFacebookRewardedAd": false,
       "HaveMultipleApks": true,
-      "BundleVersionCode": "2.8",
+      "BundleVersionCode": "2.9",
       "InterstitialAdDelayTime": "22",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUF"
@@ -550,7 +550,7 @@
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": true,
       "HaveMultipleApks": true,
-      "BundleVersionCode": "1.3",
+      "BundleVersionCode": "1.4",
       "InterstitialAdDelayTime": "45",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUC"
