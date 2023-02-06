@@ -20,7 +20,7 @@
     },
     {
       "BundleId": "com.extreme.simulator.farming.simulation20.farmer.sim.modern.drone.heavy.tractor.farming.games2020",
-      "ShowAdsFlag": true,
+      "ShowAdsFlag": false,
       "ShowCustomNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
@@ -44,7 +44,7 @@
       "BundleId": "com.extreme.simulator.monster.truck.crash.derby.fearless.stunts2019",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
-      "ShowBannerAdsFlag": true,
+      "ShowBannerAdsFlag": false,
       "ShowRewardedAdsFlag": true,
       "HaveFacebookRewardedAd": true,
       "BundleVersionCode": "2.6",
@@ -69,7 +69,7 @@
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
-      "ShowRewardedAdsFlag": true,
+      "ShowRewardedAdsFlag": false,
       "BundleVersionCode": "1.9",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "30"
