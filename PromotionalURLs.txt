@@ -1,6 +1,6 @@
 {
   	"Gameurl1": "https://play.google.com/store/apps/details?id=com.fpgs.trucksimulator.truckgame.truckdriving.oiltankertransporter.eurotrucksimulator.truckgame",
-	"Gameurl2": "https://play.google.com/store/apps/details?id=com.extremesimulator.police.cruise.ship.real.transport.passenger.driving.games",
+	"Gameurl2": "https://play.google.com/store/apps/details?id=com.sag.fps.sniper.shooting.gunstrike.fpscommando.gunshooting.gungame",
 	"Gameurl3": "https://play.google.com/store/apps/details?id=com.extremesimulator.touristbus.offroad.simulator.busgame.busparking.hillstation.driving.games",
 	"Gameurl4": "https://play.google.com/store/apps/details?id=com.extreme.simulator.demolition.derby.monster.bus.destruction.battle.arena.crash.stunts2020"
     
