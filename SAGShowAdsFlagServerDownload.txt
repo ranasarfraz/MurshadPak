@@ -10,7 +10,7 @@
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": true,
       "HaveMultipleApks": false,
-      "BundleVersionCode": "1.1",
+      "BundleVersionCode": "1.0",
       "InterstitialAdDelayTime": "40",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUC"
