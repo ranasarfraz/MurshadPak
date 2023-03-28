@@ -14,6 +14,36 @@
       "InterstitialAdDelayTime": "40",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUC"
+    },
+    {
+      "BundleId": "com.gls.cargotruck.offroadtrucksimulator.offroadtruckgames",
+      "ShowAdsFlag": true,
+      "ShowRewardedInterstitialAdsFlag": false,
+      "ShowCustomNativeAdsFlag": true,
+      "ShowAdmobNativeAdsFlag": false,
+      "ShowBannerAdsFlag": true,
+      "ShowRewardedAdsFlag": true,
+      "IsAdmobLimited": true,
+      "HaveMultipleApks": false,
+      "BundleVersionCode": "1.1",
+      "InterstitialAdDelayTime": "40",
+      "RewardedAdDelayTime": "30",
+      "AdNetworksPriority": "AUC"
+    },
+    {
+      "BundleId": "com.gls.offroad.bus.driving.games.uphill.dangerous.bus.simulator.parking",
+      "ShowAdsFlag": true,
+      "ShowRewardedInterstitialAdsFlag": false,
+      "ShowCustomNativeAdsFlag": true,
+      "ShowAdmobNativeAdsFlag": false,
+      "ShowBannerAdsFlag": true,
+      "ShowRewardedAdsFlag": true,
+      "IsAdmobLimited": true,
+      "HaveMultipleApks": false,
+      "BundleVersionCode": "1.1",
+      "InterstitialAdDelayTime": "40",
+      "RewardedAdDelayTime": "30",
+      "AdNetworksPriority": "AUC"
     }
   ]
 }
