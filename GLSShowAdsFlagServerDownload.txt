@@ -11,7 +11,7 @@
       "IsAdmobLimited": true,
       "HaveMultipleApks": false,
       "BundleVersionCode": "1.1",
-      "InterstitialAdDelayTime": "40",
+      "InterstitialAdDelayTime": "30",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUC"
     },
@@ -26,7 +26,7 @@
       "IsAdmobLimited": true,
       "HaveMultipleApks": false,
       "BundleVersionCode": "1.1",
-      "InterstitialAdDelayTime": "40",
+      "InterstitialAdDelayTime": "30",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUC"
     },
@@ -41,7 +41,37 @@
       "IsAdmobLimited": true,
       "HaveMultipleApks": false,
       "BundleVersionCode": "1.1",
-      "InterstitialAdDelayTime": "40",
+      "InterstitialAdDelayTime": "30",
+      "RewardedAdDelayTime": "30",
+      "AdNetworksPriority": "AUC"
+    },
+    {
+      "BundleId": "com.gls.bmx.bike.riding.offroad.cycling.games.xtreme.bmx.rider.games",
+      "ShowAdsFlag": true,
+      "ShowRewardedInterstitialAdsFlag": false,
+      "ShowCustomNativeAdsFlag": true,
+      "ShowAdmobNativeAdsFlag": false,
+      "ShowBannerAdsFlag": true,
+      "ShowRewardedAdsFlag": true,
+      "IsAdmobLimited": true,
+      "HaveMultipleApks": false,
+      "BundleVersionCode": "1.1",
+      "InterstitialAdDelayTime": "30",
+      "RewardedAdDelayTime": "30",
+      "AdNetworksPriority": "AUC"
+    },
+    {
+      "BundleId": "com.gls.extreme.offroad.cargame.mud.jeep.driving.games",
+      "ShowAdsFlag": true,
+      "ShowRewardedInterstitialAdsFlag": false,
+      "ShowCustomNativeAdsFlag": true,
+      "ShowAdmobNativeAdsFlag": false,
+      "ShowBannerAdsFlag": true,
+      "ShowRewardedAdsFlag": true,
+      "IsAdmobLimited": true,
+      "HaveMultipleApks": false,
+      "BundleVersionCode": "1.1",
+      "InterstitialAdDelayTime": "30",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUC"
     }
