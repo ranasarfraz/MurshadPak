@@ -1,7 +1,7 @@
 {
   	"Gameurl1": "https://play.google.com/store/apps/details?id=com.fpgs.trucksimulator.truckgame.truckdriving.oiltankertransporter.eurotrucksimulator.truckgame",
-	"Gameurl2": "https://play.google.com/store/apps/details?id=com.gls.bmx.bike.riding.offroad.cycling.games.xtreme.bmx.rider.games",
+	"Gameurl2": "https://play.google.com/store/apps/details?id=com.fpgs.mudtruckdriving.mudracing.trucksimulator.driving.mudtruck.offroad.cargo.truckgame",
 	"Gameurl3": "https://play.google.com/store/apps/details?id=com.extremesimulator.touristbus.offroad.simulator.busgame.busparking.hillstation.driving.games",
-	"Gameurl4": "https://play.google.com/store/apps/details?id=com.gls.dirtbike.motocross.racing.motobike.stunt.offroad.bmx.bikerider"
+	"Gameurl4": "https://play.google.com/store/apps/details?id=com.fpgs.offroad.delivery.indiantruck.driving.trucksimulator.heavytruck.offroad.truckgame"
     
 }
