@@ -104,6 +104,21 @@
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUC"
+    },
+    {
+      "BundleId": "com.xrg.real.cargames.driving.school.city.car.racing.parkingsimulator",
+      "ShowAdsFlag": true,
+      "ShowRewardedInterstitialAdsFlag": false,
+      "ShowCustomNativeAdsFlag": true,
+      "ShowAdmobNativeAdsFlag": false,
+      "ShowBannerAdsFlag": true,
+      "ShowRewardedAdsFlag": true,
+      "IsAdmobLimited": false,
+      "HaveMultipleApks": false,
+      "BundleVersionCode": "1.1",
+      "InterstitialAdDelayTime": "10",
+      "RewardedAdDelayTime": "30",
+      "AdNetworksPriority": "AUC"
     }
   ]
 }
