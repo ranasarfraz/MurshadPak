@@ -10,7 +10,7 @@
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": false,
       "HaveMultipleApks": false,
-      "BundleVersionCode": "1.1",
+      "BundleVersionCode": "1.2",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUC"
@@ -25,7 +25,7 @@
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": false,
       "HaveMultipleApks": false,
-      "BundleVersionCode": "1.1",
+      "BundleVersionCode": "1.2",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUC"
@@ -85,7 +85,7 @@
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": false,
       "HaveMultipleApks": false,
-      "BundleVersionCode": "1.1",
+      "BundleVersionCode": "1.2",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUC"
@@ -115,7 +115,7 @@
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": false,
       "HaveMultipleApks": false,
-      "BundleVersionCode": "1.1",
+      "BundleVersionCode": "1.2",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUC"
