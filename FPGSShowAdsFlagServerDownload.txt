@@ -522,8 +522,8 @@
       "IsAdmobLimited": true,
       "HaveMultipleApks": false,
       "BundleVersionCode": "1.1",
-      "InterstitialAdDelayTime": "30",
-      "RewardedAdDelayTime": "30",
+      "InterstitialAdDelayTime": "0",
+      "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AU"
     }
   ]
