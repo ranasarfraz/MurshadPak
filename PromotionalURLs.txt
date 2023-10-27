@@ -1,7 +1,7 @@
 {
-  	"Gameurl1": "https://play.google.com/store/apps/details?id=com.fpgs.trucksimulator.truckgame.truckdriving.oiltankertransporter.eurotrucksimulator.truckgame",
+  	"Gameurl1": "https://play.google.com/store/apps/details?id=com.fpgs.vegas.gangster.theft.simulator.city.auto.mafia.crime.games",
 	"Gameurl2": "https://play.google.com/store/apps/details?id=com.fpgs.mudtruckdriving.mudracing.trucksimulator.driving.mudtruck.offroad.cargo.truckgame",
-	"Gameurl3": "https://play.google.com/store/apps/details?id=com.extremesimulator.touristbus.offroad.simulator.busgame.busparking.hillstation.driving.games",
+	"Gameurl3": "https://play.google.com/store/apps/details?id=com.fpgs.vegas.gangster.theft.simulator.city.auto.mafia.crime.games",
 	"Gameurl4": "https://play.google.com/store/apps/details?id=com.fpgs.offroad.delivery.indiantruck.driving.trucksimulator.heavytruck.offroad.truckgame"
     
 }
