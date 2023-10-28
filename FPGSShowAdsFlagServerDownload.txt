@@ -31,21 +31,6 @@
       "AdNetworksPriority": "AUC"
     },
     {
-      "BundleId": "com.freepicklegamesstudio.train.robot.car.game.helicpter.transformation.games",
-      "ShowAdsFlag": true,
-      "ShowRewardedInterstitialAdsFlag": false,
-      "ShowCustomNativeAdsFlag": true,
-      "ShowAdmobNativeAdsFlag": false,
-      "ShowBannerAdsFlag": true,
-      "ShowRewardedAdsFlag": true,
-      "IsAdmobLimited": true,
-      "HaveMultipleApks": false,
-      "BundleVersionCode": "1.4",
-      "InterstitialAdDelayTime": "18",
-      "RewardedAdDelayTime": "30",
-      "AdNetworksPriority": "AUC"
-    },
-    {
       "BundleId": "com.freepicklegamesstudio.real.train.crash.destruction.train.car.demolition.derby.simulator2021",
       "ShowAdsFlag": true,
       "ShowRewardedInterstitialAdsFlag": false,
@@ -76,36 +61,6 @@
       "AdNetworksPriority": "AUC"
     },
     {
-      "BundleId": "com.fpgs.grand.prison.escape.bus.transport.escapemission.game",
-      "ShowAdsFlag": true,
-      "ShowRewardedInterstitialAdsFlag": false,
-      "ShowCustomNativeAdsFlag": true,
-      "ShowAdmobNativeAdsFlag": false,
-      "ShowBannerAdsFlag": true,
-      "ShowRewardedAdsFlag": true,
-      "IsAdmobLimited": true,
-      "HaveMultipleApks": false,
-      "BundleVersionCode": "1.5",
-      "InterstitialAdDelayTime": "18",
-      "RewardedAdDelayTime": "30",
-      "AdNetworksPriority": "AUC"
-    },
-    {
-      "BundleId": "com.xpgs.petcatsimulator.virtualfamily.kitten.catgames.home.adventure",
-      "ShowAdsFlag": true,
-      "ShowRewardedInterstitialAdsFlag": false,
-      "ShowCustomNativeAdsFlag": true,
-      "ShowAdmobNativeAdsFlag": false,
-      "ShowBannerAdsFlag": true,
-      "ShowRewardedAdsFlag": true,
-      "IsAdmobLimited": true,
-      "HaveMultipleApks": false,
-      "BundleVersionCode": "1.5",
-      "InterstitialAdDelayTime": "18",
-      "RewardedAdDelayTime": "30",
-      "AdNetworksPriority": "AUC"
-    } ,
-    {
       "BundleId": "com.fpgs.trucksimulator.truckgame.truckdriving.oiltankertransporter.eurotrucksimulator.truckgame",
       "ShowAdsFlag": true,
       "ShowRewardedInterstitialAdsFlag": false,
@@ -122,36 +77,6 @@
       "DoPingMatters": true
     },
     {
-      "BundleId": "com.fpgs.prisonbreak.grandjail.uspolice.escapemission.prisonescapegames",
-      "ShowAdsFlag": true,
-      "ShowRewardedInterstitialAdsFlag": false,
-      "ShowCustomNativeAdsFlag": true,
-      "ShowAdmobNativeAdsFlag": false,
-      "ShowBannerAdsFlag": true,
-      "ShowRewardedAdsFlag": true,
-      "IsAdmobLimited": true,
-      "HaveMultipleApks": false,
-      "BundleVersionCode": "1.1",
-      "InterstitialAdDelayTime": "18",
-      "RewardedAdDelayTime": "30",
-      "AdNetworksPriority": "AUC"
-    },
-    {
-      "BundleId": "com.fpgs.city.taxi.simulator.crazy.taxi.driver.carstunts.stuntgames",
-      "ShowAdsFlag": true,
-      "ShowRewardedInterstitialAdsFlag": false,
-      "ShowCustomNativeAdsFlag": true,
-      "ShowAdmobNativeAdsFlag": false,
-      "ShowBannerAdsFlag": true,
-      "ShowRewardedAdsFlag": true,
-      "IsAdmobLimited": true,
-      "HaveMultipleApks": false,
-      "BundleVersionCode": "1.2",
-      "InterstitialAdDelayTime": "18",
-      "RewardedAdDelayTime": "30",
-      "AdNetworksPriority": "AUC"
-    },
-    {
       "BundleId": "com.fpgs.offroadcargame.jeep.drivingschool.car.driving.games",
       "ShowAdsFlag": true,
       "ShowRewardedInterstitialAdsFlag": false,
@@ -164,21 +89,6 @@
       "BundleVersionCode": "2.5",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "10",
-      "AdNetworksPriority": "AUC"
-    },
-    {
-      "BundleId": "com.fpgs.powerwashing.carwash.pressure.cleangame.washsimulator.prado.washinggames",
-      "ShowAdsFlag": true,
-      "ShowRewardedInterstitialAdsFlag": false,
-      "ShowCustomNativeAdsFlag": true,
-      "ShowAdmobNativeAdsFlag": false,
-      "ShowBannerAdsFlag": true,
-      "ShowRewardedAdsFlag": true,
-      "IsAdmobLimited": true,
-      "HaveMultipleApks": false,
-      "BundleVersionCode": "1.2",
-      "InterstitialAdDelayTime": "18",
-      "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUC"
     },
     {
@@ -197,21 +107,6 @@
       "AdNetworksPriority": "AUC"
     },
     {
-      "BundleId": "com.fpgs.powerwashing.cleaning.carwash.pressure.cleangame.washsimulator.cargame.washinggames",
-      "ShowAdsFlag": true,
-      "ShowRewardedInterstitialAdsFlag": false,
-      "ShowCustomNativeAdsFlag": true,
-      "ShowAdmobNativeAdsFlag": false,
-      "ShowBannerAdsFlag": true,
-      "ShowRewardedAdsFlag": true,
-      "IsAdmobLimited": true,
-      "HaveMultipleApks": false,
-      "BundleVersionCode": "1.6",
-      "InterstitialAdDelayTime": "18",
-      "RewardedAdDelayTime": "30",
-      "AdNetworksPriority": "AUC"
-    },
-    {
       "BundleId": "com.fpgs.eurobussimulator.busdrivinggames.city.coach.bus.simulator",
       "ShowAdsFlag": true,
       "ShowRewardedInterstitialAdsFlag": false,
@@ -222,36 +117,6 @@
       "IsAdmobLimited": true,
       "HaveMultipleApks": false,
       "BundleVersionCode": "1.6",
-      "InterstitialAdDelayTime": "18",
-      "RewardedAdDelayTime": "30",
-      "AdNetworksPriority": "AUC"
-    },
-    {
-      "BundleId": "com.fpgs.coachbus.bussimulator.citybus.drivinggame.offroad.busdriving.busgames",
-      "ShowAdsFlag": true,
-      "ShowRewardedInterstitialAdsFlag": false,
-      "ShowCustomNativeAdsFlag": true,
-      "ShowAdmobNativeAdsFlag": false,
-      "ShowBannerAdsFlag": true,
-      "ShowRewardedAdsFlag": true,
-      "IsAdmobLimited": false,
-      "HaveMultipleApks": false,
-      "BundleVersionCode": "1.6",
-      "InterstitialAdDelayTime": "18",
-      "RewardedAdDelayTime": "30",
-      "AdNetworksPriority": "AUC"
-    },
-    {
-      "BundleId": "com.fpgs.trucksimulator.oiltanker.driving.cargo.eurotruck.truckdriver.truckgame",
-      "ShowAdsFlag": true,
-      "ShowRewardedInterstitialAdsFlag": false,
-      "ShowCustomNativeAdsFlag": true,
-      "ShowAdmobNativeAdsFlag": false,
-      "ShowBannerAdsFlag": true,
-      "ShowRewardedAdsFlag": true,
-      "IsAdmobLimited": true,
-      "HaveMultipleApks": false,
-      "BundleVersionCode": "1.7",
       "InterstitialAdDelayTime": "18",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUC"
@@ -282,21 +147,6 @@
       "IsAdmobLimited": true,
       "HaveMultipleApks": false,
       "BundleVersionCode": "1.9",
-      "InterstitialAdDelayTime": "18",
-      "RewardedAdDelayTime": "30",
-      "AdNetworksPriority": "AUC"
-    },
-    {
-      "BundleId": "com.fpgs.carmechanic.powerwashing.junkyard.gasstation.carservice.game",
-      "ShowAdsFlag": true,
-      "ShowRewardedInterstitialAdsFlag": false,
-      "ShowCustomNativeAdsFlag": true,
-      "ShowAdmobNativeAdsFlag": false,
-      "ShowBannerAdsFlag": true,
-      "ShowRewardedAdsFlag": true,
-      "IsAdmobLimited": true,
-      "HaveMultipleApks": false,
-      "BundleVersionCode": "1.1",
       "InterstitialAdDelayTime": "18",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUC"
@@ -407,21 +257,6 @@
       "AdNetworksPriority": "AUC"
     },
     {
-      "BundleId": "com.fpgs.washgame.modern.car.driving.carwashing.cleancar.serviceworkshop.games",
-      "ShowAdsFlag": true,
-      "ShowRewardedInterstitialAdsFlag": false,
-      "ShowCustomNativeAdsFlag": true,
-      "ShowAdmobNativeAdsFlag": false,
-      "ShowBannerAdsFlag": true,
-      "ShowRewardedAdsFlag": true,
-      "IsAdmobLimited": true,
-      "HaveMultipleApks": false,
-      "BundleVersionCode": "1.2",
-      "InterstitialAdDelayTime": "30",
-      "RewardedAdDelayTime": "30",
-      "AdNetworksPriority": "AUC"
-    },
-    {
       "BundleId": "com.fpgs.coachbus.simulator.offroad.indian.busdriving.citybus.drivingbusgames",
       "ShowAdsFlag": true,
       "ShowRewardedInterstitialAdsFlag": false,
@@ -452,21 +287,6 @@
       "AdNetworksPriority": "AUC"
     },
     {
-      "BundleId": "com.fpgs.indian.farming.tractor.trolley.driving.simulator.farm.harvest.tractorgame",
-      "ShowAdsFlag": true,
-      "ShowRewardedInterstitialAdsFlag": false,
-      "ShowCustomNativeAdsFlag": true,
-      "ShowAdmobNativeAdsFlag": false,
-      "ShowBannerAdsFlag": true,
-      "ShowRewardedAdsFlag": true,
-      "IsAdmobLimited": true,
-      "HaveMultipleApks": false,
-      "BundleVersionCode": "1.4",
-      "InterstitialAdDelayTime": "30",
-      "RewardedAdDelayTime": "30",
-      "AdNetworksPriority": "AUC"
-    },
-    {
       "BundleId": "com.fpgs.bike.games.motoextremeracing.highway.trafficracer.motorcyclesimulation",
       "ShowAdsFlag": true,
       "ShowRewardedInterstitialAdsFlag": false,
@@ -477,21 +297,6 @@
       "IsAdmobLimited": true,
       "HaveMultipleApks": false,
       "BundleVersionCode": "1.2",
-      "InterstitialAdDelayTime": "30",
-      "RewardedAdDelayTime": "30",
-      "AdNetworksPriority": "AUC"
-    },
-    {
-      "BundleId": "com.fpgs.citytaxi.simulator.driver.offroadtaxi.car.driving.games",
-      "ShowAdsFlag": true,
-      "ShowRewardedInterstitialAdsFlag": false,
-      "ShowCustomNativeAdsFlag": true,
-      "ShowAdmobNativeAdsFlag": false,
-      "ShowBannerAdsFlag": true,
-      "ShowRewardedAdsFlag": true,
-      "IsAdmobLimited": true,
-      "HaveMultipleApks": false,
-      "BundleVersionCode": "1.3",
       "InterstitialAdDelayTime": "30",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUC"
