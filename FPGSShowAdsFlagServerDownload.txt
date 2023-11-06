@@ -215,15 +215,15 @@
       "BundleId": "com.fpgs.ultimatetrucksimulator.drivingschool.offroad.cargo.euro.truck.games",
       "ShowAdsFlag": true,
       "ShowRewardedInterstitialAdsFlag": false,
-      "ShowCustomNativeAdsFlag": true,
+      "ShowCustomNativeAdsFlag": false,
       "ShowAdmobNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": true,
       "HaveMultipleApks": false,
       "BundleVersionCode": "1.8",
-      "InterstitialAdDelayTime": "30",
-      "RewardedAdDelayTime": "30",
+      "InterstitialAdDelayTime": "10",
+      "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUC"
     },
     {
@@ -252,8 +252,8 @@
       "IsAdmobLimited": true,
       "HaveMultipleApks": false,
       "BundleVersionCode": "1.4",
-      "InterstitialAdDelayTime": "30",
-      "RewardedAdDelayTime": "30",
+      "InterstitialAdDelayTime": "10",
+      "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUC"
     },
     {
