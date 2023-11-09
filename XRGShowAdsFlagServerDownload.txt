@@ -12,7 +12,7 @@
       "HaveMultipleApks": false,
       "BundleVersionCode": "1.4",
       "InterstitialAdDelayTime": "10",
-      "RewardedAdDelayTime": "30",
+      "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUC"
     },
     {
@@ -27,7 +27,7 @@
       "HaveMultipleApks": false,
       "BundleVersionCode": "1.3",
       "InterstitialAdDelayTime": "10",
-      "RewardedAdDelayTime": "30",
+      "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUC"
     },
     {
@@ -42,7 +42,7 @@
       "HaveMultipleApks": false,
       "BundleVersionCode": "1.5",
       "InterstitialAdDelayTime": "10",
-      "RewardedAdDelayTime": "30",
+      "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUC"
     },
     {
@@ -57,7 +57,7 @@
       "HaveMultipleApks": false,
       "BundleVersionCode": "1.5",
       "InterstitialAdDelayTime": "10",
-      "RewardedAdDelayTime": "30",
+      "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUC"
     },
     {
@@ -72,7 +72,7 @@
       "HaveMultipleApks": false,
       "BundleVersionCode": "1.2",
       "InterstitialAdDelayTime": "10",
-      "RewardedAdDelayTime": "30",
+      "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUC"
     },
     {
@@ -87,7 +87,7 @@
       "HaveMultipleApks": false,
       "BundleVersionCode": "1.3",
       "InterstitialAdDelayTime": "10",
-      "RewardedAdDelayTime": "30",
+      "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUC"
     },
     {
@@ -102,7 +102,7 @@
       "HaveMultipleApks": false,
       "BundleVersionCode": "1.3",
       "InterstitialAdDelayTime": "10",
-      "RewardedAdDelayTime": "30",
+      "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUC"
     },
     {
@@ -115,9 +115,9 @@
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": false,
       "HaveMultipleApks": false,
-      "BundleVersionCode": "1.5",
+      "BundleVersionCode": "1.6",
       "InterstitialAdDelayTime": "10",
-      "RewardedAdDelayTime": "30",
+      "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUC"
     },
     {
@@ -132,7 +132,7 @@
       "HaveMultipleApks": false,
       "BundleVersionCode": "1.2",
       "InterstitialAdDelayTime": "10",
-      "RewardedAdDelayTime": "30",
+      "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUC"
     }
   ]
