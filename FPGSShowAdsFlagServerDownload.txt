@@ -69,7 +69,7 @@
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": true,
-      "HaveMultipleApks": true,
+      "HaveMultipleApks": false,
       "BundleVersionCode": "3.9",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "0",
