@@ -461,8 +461,8 @@
       "IsAdmobLimited": true,
       "HaveMultipleApks": false,
       "BundleVersionCode": "3.0",
-      "InterstitialAdDelayTime": "22",
-      "RewardedAdDelayTime": "30",
+      "InterstitialAdDelayTime": "10",
+      "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUC"
     },
     {
@@ -491,8 +491,8 @@
       "IsAdmobLimited": true,
       "HaveMultipleApks": false,
       "BundleVersionCode": "1.7",
-      "InterstitialAdDelayTime": "22",
-      "RewardedAdDelayTime": "30",
+      "InterstitialAdDelayTime": "10",
+      "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUC"
     },
     {
@@ -656,8 +656,8 @@
       "IsAdmobLimited": true,
       "HaveMultipleApks": false,
       "BundleVersionCode": "1.4",
-      "InterstitialAdDelayTime": "22",
-      "RewardedAdDelayTime": "30",
+      "InterstitialAdDelayTime": "10",
+      "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUC"
     },
     {
