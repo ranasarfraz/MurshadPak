@@ -349,8 +349,8 @@
     {
       "BundleId": "com.fpgs.vegas.gangster.theft.simulator.city.auto.mafia.crime.games",
       "ShowAdsFlag": true,
-      "DoShowMediatedBanner": true,
-      "DoShowMediatedAppOpen": true,
+      "DoShowMediatedBanner": false,
+      "DoShowMediatedAppOpen": false,
       "DoShowAppOpenAfterAd": false,
       "ShowRewardedInterstitialAdsFlag": false,
       "ShowCustomNativeAdsFlag": true,
@@ -359,7 +359,7 @@
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": true,
       "HaveMultipleApks": false, 
-      "BundleVersionCode": "2.0", 
+      "BundleVersionCode": "2.1", 
       "InterstitialAdDelayTime": "8",
       "RewardedAdDelayTime": "1",
       "AdNetworksPriority": "AU"
