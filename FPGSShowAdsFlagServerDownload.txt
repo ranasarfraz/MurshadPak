@@ -349,6 +349,9 @@
     {
       "BundleId": "com.fpgs.vegas.gangster.theft.simulator.city.auto.mafia.crime.games",
       "ShowAdsFlag": true,
+      "DoShowMediatedBanner": true,
+      "DoShowMediatedAppOpen": true,
+      "DoShowAppOpenAfterAd": false,
       "ShowRewardedInterstitialAdsFlag": false,
       "ShowCustomNativeAdsFlag": true,
       "ShowAdmobNativeAdsFlag": false,
