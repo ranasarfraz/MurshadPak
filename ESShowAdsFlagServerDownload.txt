@@ -707,7 +707,7 @@
       "InterstitialAdDelayTime": "22",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUC"
-    } ,
+    },
     {
       "BundleId": "com.es.extreme.real.car.racing.simulator.offroad.trafficracer.cargames",
       "ShowAdsFlag": true,
@@ -721,6 +721,21 @@
       "BundleVersionCode": "1.2",
       "InterstitialAdDelayTime": "22",
       "RewardedAdDelayTime": "30",
+      "AdNetworksPriority": "AUC"
+    },
+    {
+      "BundleId": "com.es.flyingbatboy.indian.bikes.ridding.racing.game",
+      "ShowAdsFlag": true,
+      "ShowRewardedInterstitialAdsFlag": false,
+      "ShowCustomNativeAdsFlag": true,
+      "ShowAdmobNativeAdsFlag": false,
+      "ShowBannerAdsFlag": true,
+      "ShowRewardedAdsFlag": true,
+      "IsAdmobLimited": true,
+      "HaveMultipleApks": false,
+      "BundleVersionCode": "1.1",
+      "InterstitialAdDelayTime": "8",
+      "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUC"
     }                                                        
   ]
