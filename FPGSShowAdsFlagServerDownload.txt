@@ -69,9 +69,9 @@
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": true,
-      "HaveMultipleApks": false,
-      "BundleVersionCode": "4.1",
-      "InterstitialAdDelayTime": "8",
+      "HaveMultipleApks": false, 
+      "BundleVersionCode": "4.2",
+      "InterstitialAdDelayTime": "8", 
       "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AU",
       "DoPingMatters": true
