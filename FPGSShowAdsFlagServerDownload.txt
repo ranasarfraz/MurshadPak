@@ -363,6 +363,24 @@
       "InterstitialAdDelayTime": "8",
       "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AU"
+    },
+    {
+      "BundleId": "com.fpgs.spiderboy.ropehero.vegascity.bikeracing.vicetown",
+      "ShowAdsFlag": true,
+      "DoShowMediatedBanner": false,
+      "DoShowMediatedAppOpen": false,
+      "DoShowAppOpenAfterAd": false,
+      "ShowRewardedInterstitialAdsFlag": false,
+      "ShowCustomNativeAdsFlag": true,
+      "ShowAdmobNativeAdsFlag": false,
+      "ShowBannerAdsFlag": true,
+      "ShowRewardedAdsFlag": true,
+      "IsAdmobLimited": true,
+      "HaveMultipleApks": false, 
+      "BundleVersionCode": "1.1", 
+      "InterstitialAdDelayTime": "8",
+      "RewardedAdDelayTime": "0",
+      "AdNetworksPriority": "AU"
     }
   ]
 }
