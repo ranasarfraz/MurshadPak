@@ -79,6 +79,9 @@
     {
       "BundleId": "com.fpgs.offroadcargame.jeep.drivingschool.car.driving.games",
       "ShowAdsFlag": true,
+      "DoShowMediatedBanner": true,
+      "DoShowMediatedAppOpen": true,
+      "DoShowAppOpenAfterAd": false,
       "ShowRewardedInterstitialAdsFlag": false,
       "ShowCustomNativeAdsFlag": true,
       "ShowAdmobNativeAdsFlag": false,
@@ -87,7 +90,7 @@
       "IsAdmobLimited": true,
       "HaveMultipleApks": false,
       "BundleVersionCode": "3.0",
-      "InterstitialAdDelayTime": "15",
+      "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUC"
     },
