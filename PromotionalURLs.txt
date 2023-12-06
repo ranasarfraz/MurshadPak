@@ -1,7 +1,7 @@
 {
   	"Gameurl1": "https://play.google.com/store/apps/details?id=com.fpgs.vegas.gangster.theft.simulator.city.auto.mafia.crime.games",
-	"Gameurl2": "https://play.google.com/store/apps/details?id=com.fpgs.mudtruckdriving.mudracing.trucksimulator.driving.mudtruck.offroad.cargo.truckgame",
+	"Gameurl2": "https://play.google.com/store/apps/details?id=com.es.flyingbatboy.indian.bikes.ridding.racing.game",
 	"Gameurl3": "https://play.google.com/store/apps/details?id=com.fpgs.vegas.gangster.theft.simulator.city.auto.mafia.crime.games",
-	"Gameurl4": "https://play.google.com/store/apps/details?id=com.fpgs.offroad.delivery.indiantruck.driving.trucksimulator.heavytruck.offroad.truckgame"
+	"Gameurl4": "https://play.google.com/store/apps/details?id=com.fpgs.spiderboy.ropehero.vegascity.bikeracing.vicetown"
     
 }
