@@ -306,6 +306,9 @@
     {
       "BundleId": "com.extremesimulator.excavator.construction.houseconstruction.cityconstruction.truckgames",
       "ShowAdsFlag": true,
+      "DoShowMediatedBanner": true,
+      "DoShowMediatedAppOpen": true,
+      "DoShowAppOpenAfterAd": true,
       "ShowRewardedInterstitialAdsFlag": false,
       "ShowCustomNativeAdsFlag": true,
       "ShowAdmobNativeAdsFlag": false,
