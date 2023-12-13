@@ -83,15 +83,15 @@
       "DoShowMediatedAppOpen": false,
       "DoShowAppOpenAfterAd": false,
       "ShowRewardedInterstitialAdsFlag": false,
-      "ShowCustomNativeAdsFlag": false,
+      "ShowCustomNativeAdsFlag": true,
       "ShowAdmobNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": false,
       "HaveMultipleApks": false,
       "BundleVersionCode": "3.1",
-      "InterstitialAdDelayTime": "60",
-      "RewardedAdDelayTime": "60",
+      "InterstitialAdDelayTime": "10",
+      "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUC"
     },
     {
