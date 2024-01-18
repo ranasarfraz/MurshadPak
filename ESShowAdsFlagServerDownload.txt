@@ -407,8 +407,8 @@
       "IsAdmobLimited": true,
       "HaveMultipleApks": false,
       "BundleVersionCode": "2.8",
-      "InterstitialAdDelayTime": "30",
-      "RewardedAdDelayTime": "30",
+      "InterstitialAdDelayTime": "10",
+      "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUC"
     },
     {
