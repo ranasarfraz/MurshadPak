@@ -134,9 +134,9 @@
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": true,
       "HaveMultipleApks": false,
-      "BundleVersionCode": "1.9",
-      "InterstitialAdDelayTime": "10",
-      "RewardedAdDelayTime": "0",
+      "BundleVersionCode": "2.0",
+      "InterstitialAdDelayTime": "60",
+      "RewardedAdDelayTime": "60",
       "AdNetworksPriority": "AUC"
     },
     {
