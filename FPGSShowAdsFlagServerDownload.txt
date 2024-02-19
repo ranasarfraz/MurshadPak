@@ -157,6 +157,7 @@
     {
       "BundleId": "com.fpgs.xtrememotor.bikes.realhighway.bikeracing.motortourgames",
       "ShowAdsFlag": true,
+      "ShowInGameAds": true,
       "ShowRewardedInterstitialAdsFlag": false,
       "ShowCustomNativeAdsFlag": true,
       "ShowAdmobNativeAdsFlag": false,
@@ -167,6 +168,7 @@
       "BundleVersionCode": "3.3",
       "InterstitialAdDelayTime": "6",
       "RewardedAdDelayTime": "0",
+      "InGameAdsDelayTime": "90",
       "AdNetworksPriority": "AUC"
     },
     {
