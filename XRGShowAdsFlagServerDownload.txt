@@ -47,7 +47,7 @@
     },
     {
       "BundleId": "com.xrg.offroadtrucksimulator.offroadtruckgames.cargo.trailer.delivery.eurotruckgames",
-      "ShowAdsFlag": false,
+      "ShowAdsFlag": true,
       "ShowRewardedInterstitialAdsFlag": false,
       "ShowCustomNativeAdsFlag": true,
       "ShowAdmobNativeAdsFlag": false,
@@ -55,7 +55,7 @@
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": false,
       "HaveMultipleApks": false,
-      "BundleVersionCode": "1.8",
+      "BundleVersionCode": "1.7",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUC"
