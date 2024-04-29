@@ -689,10 +689,10 @@
       "ShowAdmobNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
-      "IsAdmobLimited": true,
+      "IsAdmobLimited": false,
       "HaveMultipleApks": false,
-      "BundleVersionCode": "1.6",
-      "InterstitialAdDelayTime": "6",
+      "BundleVersionCode": "1.7",
+      "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUC"
     },
