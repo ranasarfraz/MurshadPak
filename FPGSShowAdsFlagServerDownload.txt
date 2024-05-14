@@ -164,14 +164,14 @@
       "ShowRewardedInterstitialAdsFlag": false,
       "ShowCustomNativeAdsFlag": true,
       "ShowAdmobNativeAdsFlag": false,
-      "ShowBannerAdsFlag": false,
+      "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": true,
       "HaveMultipleApks": false,
-      "BundleVersionCode": "3.5",
-      "InterstitialAdDelayTime": "60",
+      "BundleVersionCode": "3.7",
+      "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "0",
-      "InGameAdsDelayTime": "180",
+      "InGameAdsDelayTime": "90",
       "AdNetworksPriority": "AUC"
     },
     {
