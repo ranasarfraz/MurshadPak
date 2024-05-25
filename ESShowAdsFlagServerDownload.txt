@@ -739,7 +739,7 @@
       "BundleVersionCode": "1.3",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "0",
-      "InGameAdsDelayTime": "180",
+      "InGameAdsDelayTime": "90",
       "AdNetworksPriority": "AUC"
     }                                                        
   ]
