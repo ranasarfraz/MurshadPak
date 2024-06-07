@@ -734,7 +734,7 @@
       "ShowRewardedInterstitialAdsFlag": false,
       "ShowCustomNativeAdsFlag": true,
       "ShowAdmobNativeAdsFlag": false,
-      "ShowBannerAdsFlag": true,
+      "ShowBannerAdsFlag": false,
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": false,
       "HaveMultipleApks": false,
