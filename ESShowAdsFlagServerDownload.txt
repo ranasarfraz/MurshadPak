@@ -146,7 +146,7 @@
       "HaveFacebookRewardedAd": false,
       "HaveMultipleApks": false,
       "BundleVersionCode": "1.8",
-      "InterstitialAdDelayTime": "22",
+      "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUF"
     },
@@ -221,7 +221,7 @@
       "HaveFacebookRewardedAd": false,
       "HaveMultipleApks": false,
       "BundleVersionCode": "1.3",
-      "InterstitialAdDelayTime": "22",
+      "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUF"
     },

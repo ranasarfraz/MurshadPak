@@ -90,7 +90,7 @@
       "IsAdmobLimited": false,
       "HaveMultipleApks": false,
       "BundleVersionCode": "3.3",
-      "InterstitialAdDelayTime": "60",
+      "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUC"
     },
