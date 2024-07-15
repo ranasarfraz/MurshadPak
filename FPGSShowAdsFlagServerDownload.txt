@@ -365,10 +365,12 @@
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true, 
       "HaveMultipleApks": false, 
-      "BundleVersionCode": "2.8", 
+      "BundleVersionCode": "2.9", 
       "InterstitialAdDelayTime": "6",
       "RewardedAdDelayTime": "0",
-      "AdNetworksPriority": "AU"
+      "AdNetworksPriority": "AU",
+      "ShowInGameAds": true,
+      "InGameAdsDelayTime": "90"
     },
     {
       "BundleId": "com.fpgs.spiderboy.ropehero.vegascity.bikeracing.vicetown",
