@@ -10,8 +10,8 @@
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": false,
       "HaveMultipleApks": false,
-      "BundleVersionCode": "1.7",
-      "InterstitialAdDelayTime": "60",
+      "BundleVersionCode": "1.8",
+      "InterstitialAdDelayTime": "30",
       "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUC"
     },
@@ -25,8 +25,8 @@
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": false,
       "HaveMultipleApks": false,
-      "BundleVersionCode": "1.8",
-      "InterstitialAdDelayTime": "60",
+      "BundleVersionCode": "1.9",
+      "InterstitialAdDelayTime": "30",
       "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUC"
     },
@@ -41,7 +41,7 @@
       "IsAdmobLimited": false,
       "HaveMultipleApks": false,
       "BundleVersionCode": "1.9",
-      "InterstitialAdDelayTime": "60",
+      "InterstitialAdDelayTime": "30",
       "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUC"
     },
@@ -56,7 +56,7 @@
       "IsAdmobLimited": false,
       "HaveMultipleApks": false,
       "BundleVersionCode": "1.6",
-      "InterstitialAdDelayTime": "60",
+      "InterstitialAdDelayTime": "30",
       "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUC"
     },
@@ -71,7 +71,7 @@
       "IsAdmobLimited": false,
       "HaveMultipleApks": false,
       "BundleVersionCode": "1.8",
-      "InterstitialAdDelayTime": "60",
+      "InterstitialAdDelayTime": "30",
       "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUC"
     },
@@ -86,7 +86,7 @@
       "IsAdmobLimited": false,
       "HaveMultipleApks": false,
       "BundleVersionCode": "1.6",
-      "InterstitialAdDelayTime": "60",
+      "InterstitialAdDelayTime": "30",
       "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUC"
     }
