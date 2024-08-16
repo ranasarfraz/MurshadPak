@@ -169,9 +169,9 @@
       "IsAdmobLimited": false,
       "HaveMultipleApks": false,
       "BundleVersionCode": "5.2",
-      "InterstitialAdDelayTime": "6",
+      "InterstitialAdDelayTime": "30",
       "RewardedAdDelayTime": "0",
-      "InGameAdsDelayTime": "90",
+      "InGameAdsDelayTime": "80",
       "AdNetworksPriority": "AUC"
     },
     {
