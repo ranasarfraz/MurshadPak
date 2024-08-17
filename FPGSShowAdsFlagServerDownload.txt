@@ -157,7 +157,7 @@
     {
       "BundleId": "com.fpgs.xtrememotor.bikes.realhighway.bikeracing.motortourgames",
       "ShowAdsFlag": true,
-      "ShowInGameAds": true,
+      "ShowInGameAds": false,
       "DoShowMediatedBanner": true,
       "DoShowMediatedAppOpen": true,
       "DoShowAppOpenAfterAd": false,
