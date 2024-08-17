@@ -168,7 +168,7 @@
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": false,
       "HaveMultipleApks": false,
-      "BundleVersionCode": "5.2",
+      "BundleVersionCode": "5.1",
       "InterstitialAdDelayTime": "30",
       "RewardedAdDelayTime": "0",
       "InGameAdsDelayTime": "80",
