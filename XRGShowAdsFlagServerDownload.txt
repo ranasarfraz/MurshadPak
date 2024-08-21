@@ -150,7 +150,7 @@
       "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUC",
       "ShowInGameAds": true,
-      "InGameAdsDelayTime": "75"
+      "InGameAdsDelayTime": "60"
     }
   ]
 }
