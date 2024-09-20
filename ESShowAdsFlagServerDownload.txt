@@ -395,14 +395,14 @@
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": false,
       "HaveMultipleApks": false,
-      "BundleVersionCode": "1.4",
+      "BundleVersionCode": "1.5",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "0",
       "ShowInGameAds": true,
       "InGameAdsDelayTime": "75",
       "AdNetworksPriority": "AUC",
-      "DoShowMediatedBanner": true,
-      "DoShowMediatedAppOpen": false,
+      "DoShowMediatedBanner": false,
+      "DoShowMediatedAppOpen": true,
       "DoShowAppOpenAfterAd": false
     }                                                        
   ]
