@@ -151,7 +151,7 @@
       "AdNetworksPriority": "AUC",
       "ShowInGameAds": true,
       "InGameAdsDelayTime": "80",
-      "DoShowMediatedBanner": false,
+      "DoShowMediatedBanner": true,
       "DoShowMediatedAppOpen": true,
       "DoShowAppOpenAfterAd": false
     }
