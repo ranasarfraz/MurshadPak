@@ -13,7 +13,12 @@
       "BundleVersionCode": "4.2",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "0",
-      "AdNetworksPriority": "AUC"
+      "AdNetworksPriority": "AUC",
+      "ShowInGameAds": true,
+      "InGameAdsDelayTime": "80",
+      "DoShowMediatedBanner": false,
+      "DoShowMediatedAppOpen": true,
+      "DoShowAppOpenAfterAd": false
     },
     {
       "BundleId": "com.extreme.simulator.farming.simulation20.farmer.sim.modern.drone.heavy.tractor.farming.games2020",
@@ -28,7 +33,12 @@
       "BundleVersionCode": "2.8",
       "InterstitialAdDelayTime": "8",
       "RewardedAdDelayTime": "0",
-      "AdNetworksPriority": "FAU"
+      "AdNetworksPriority": "FAU",
+      "ShowInGameAds": true,
+      "InGameAdsDelayTime": "80",
+      "DoShowMediatedBanner": false,
+      "DoShowMediatedAppOpen": true,
+      "DoShowAppOpenAfterAd": false
     },
     {
       "BundleId": "com.extreme.simulator.monster.truck.crash.derby.fearless.stunts2019",
@@ -43,7 +53,12 @@
       "BundleVersionCode": "4.5",
       "InterstitialAdDelayTime": "8",
       "RewardedAdDelayTime": "0",
-      "AdNetworksPriority": "AUF"
+      "AdNetworksPriority": "AUF",
+      "ShowInGameAds": true,
+      "InGameAdsDelayTime": "80",
+      "DoShowMediatedBanner": false,
+      "DoShowMediatedAppOpen": true,
+      "DoShowAppOpenAfterAd": false
     },
     {
       "BundleId": "com.extreme.simulator.fury.monster.jeep.parking.truck.driving.stunts2019",
@@ -58,7 +73,12 @@
       "BundleVersionCode": "3.4",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "0",
-      "AdNetworksPriority": "AUF"
+      "AdNetworksPriority": "AUF",
+      "ShowInGameAds": true,
+      "InGameAdsDelayTime": "80",
+      "DoShowMediatedBanner": false,
+      "DoShowMediatedAppOpen": true,
+      "DoShowAppOpenAfterAd": false
     },
     {
       "BundleId": "com.extreme.simulator.boat.fishing.simulator.salmon.wild.fish.hunting",
@@ -74,11 +94,11 @@
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUC",
+      "ShowInGameAds": true,
+      "InGameAdsDelayTime": "80",
       "DoShowMediatedBanner": false,
       "DoShowMediatedAppOpen": true,
-      "DoShowAppOpenAfterAd": false,
-      "ShowInGameAds": true,
-      "InGameAdsDelayTime": "80"
+      "DoShowAppOpenAfterAd": false
     },
     {
       "BundleId": "com.extremesimulator.monster.truck.jam.truck4x4derby.crashdestruction4x4derby.mad.truck.driving.monster.legends2021",
@@ -93,14 +113,16 @@
       "BundleVersionCode": "2.4",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "0",
-      "AdNetworksPriority": "AUF"
+      "AdNetworksPriority": "AUF",
+      "ShowInGameAds": true,
+      "InGameAdsDelayTime": "80",
+      "DoShowMediatedBanner": false,
+      "DoShowMediatedAppOpen": true,
+      "DoShowAppOpenAfterAd": false
     },
     {
       "BundleId": "com.extremesimulator.police.cruise.ship.real.transport.passenger.driving.games",
       "ShowAdsFlag": true,
-      "DoShowMediatedBanner": false,
-      "DoShowMediatedAppOpen": false,
-      "DoShowAppOpenAfterAd": false,
       "ShowRewardedInterstitialAdsFlag": false,
       "ShowCustomNativeAdsFlag": true,
       "ShowAdmobNativeAdsFlag": false,
@@ -111,7 +133,12 @@
       "BundleVersionCode": "3.7",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "0",
-      "AdNetworksPriority": "AUC"
+      "AdNetworksPriority": "AUC",
+      "ShowInGameAds": true,
+      "InGameAdsDelayTime": "80",
+      "DoShowMediatedBanner": false,
+      "DoShowMediatedAppOpen": true,
+      "DoShowAppOpenAfterAd": false
     },
     {
       "BundleId": "com.extremesimulator.car.demolition.derby.simulator.train.crash.destruction2021",
@@ -126,14 +153,16 @@
       "BundleVersionCode": "2.2",
       "InterstitialAdDelayTime": "6",
       "RewardedAdDelayTime": "0",
-      "AdNetworksPriority": "AUF"
+      "AdNetworksPriority": "AUF",
+      "ShowInGameAds": true,
+      "InGameAdsDelayTime": "80",
+      "DoShowMediatedBanner": false,
+      "DoShowMediatedAppOpen": true,
+      "DoShowAppOpenAfterAd": false
     },
     {
       "BundleId": "com.extremesimulator.excavator.construction.houseconstruction.cityconstruction.truckgames",
       "ShowAdsFlag": true,
-      "DoShowMediatedBanner": false,
-      "DoShowMediatedAppOpen": false,
-      "DoShowAppOpenAfterAd": false,
       "ShowRewardedInterstitialAdsFlag": false,
       "ShowCustomNativeAdsFlag": true,
       "ShowAdmobNativeAdsFlag": false,
@@ -144,7 +173,12 @@
       "BundleVersionCode": "2.0",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "0",
-      "AdNetworksPriority": "AUF"
+      "AdNetworksPriority": "AUF",
+      "ShowInGameAds": true,
+      "InGameAdsDelayTime": "80",
+      "DoShowMediatedBanner": false,
+      "DoShowMediatedAppOpen": true,
+      "DoShowAppOpenAfterAd": false
     },
     {
       "BundleId": "com.extremesimulator.city.train.cityconstruction.railwayconstruction.truck.drive.games",
@@ -159,7 +193,12 @@
       "BundleVersionCode": "2.1",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "0",
-      "AdNetworksPriority": "AUF"
+      "AdNetworksPriority": "AUF",
+      "ShowInGameAds": true,
+      "InGameAdsDelayTime": "80",
+      "DoShowMediatedBanner": false,
+      "DoShowMediatedAppOpen": true,
+      "DoShowAppOpenAfterAd": false
     },
     {
       "BundleId": "com.extremesimulator.euro.trucksimulator.cargotruckdriversimulator.indiantuckgames",
@@ -174,7 +213,12 @@
       "BundleVersionCode": "2.6",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "0",
-      "AdNetworksPriority": "AUC"
+      "AdNetworksPriority": "AUC",
+      "ShowInGameAds": true,
+      "InGameAdsDelayTime": "80",
+      "DoShowMediatedBanner": false,
+      "DoShowMediatedAppOpen": true,
+      "DoShowAppOpenAfterAd": false
     },
     {
       "BundleId": "com.extremesimulator.touristbus.offroad.simulator.busgame.busparking.hillstation.driving.games",
@@ -189,7 +233,12 @@
       "BundleVersionCode": "2.9",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "0",
-      "AdNetworksPriority": "AUC"
+      "AdNetworksPriority": "AUC",
+      "ShowInGameAds": true,
+      "InGameAdsDelayTime": "80",
+      "DoShowMediatedBanner": false,
+      "DoShowMediatedAppOpen": true,
+      "DoShowAppOpenAfterAd": false
     },
     {
       "BundleId": "com.es.extreme.city.cardriving.simulator.offroadgames",
@@ -204,7 +253,12 @@
       "BundleVersionCode": "3.5",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "0",
-      "AdNetworksPriority": "AUC"
+      "AdNetworksPriority": "AUC",
+      "ShowInGameAds": true,
+      "InGameAdsDelayTime": "80",
+      "DoShowMediatedBanner": false,
+      "DoShowMediatedAppOpen": true,
+      "DoShowAppOpenAfterAd": false
     },
     {
       "BundleId": "com.es.mudbus.offroaddriving.game.mountain.uphillbus.drivergames",
@@ -219,7 +273,12 @@
       "BundleVersionCode": "1.9",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "0",
-      "AdNetworksPriority": "AUC"
+      "AdNetworksPriority": "AUC",
+      "ShowInGameAds": true,
+      "InGameAdsDelayTime": "80",
+      "DoShowMediatedBanner": false,
+      "DoShowMediatedAppOpen": true,
+      "DoShowAppOpenAfterAd": false
     },
     {
       "BundleId": "com.es.offroad.mud.carracing.mudracing.trucksimulator.snow.truck.driving.cargame",
@@ -234,7 +293,12 @@
       "BundleVersionCode": "2.0",
       "InterstitialAdDelayTime": "6",
       "RewardedAdDelayTime": "0",
-      "AdNetworksPriority": "AUC"
+      "AdNetworksPriority": "AUC",
+      "ShowInGameAds": true,
+      "InGameAdsDelayTime": "80",
+      "DoShowMediatedBanner": false,
+      "DoShowMediatedAppOpen": true,
+      "DoShowAppOpenAfterAd": false
     },
     {
       "BundleId": "com.es.motorcyclegame.bikegame.xtremebike.racing.strike.racingsimulator.motobike.racinggames",
@@ -269,7 +333,12 @@
       "BundleVersionCode": "2.0",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "0",
-      "AdNetworksPriority": "AUC"
+      "AdNetworksPriority": "AUC",
+      "ShowInGameAds": true,
+      "InGameAdsDelayTime": "80",
+      "DoShowMediatedBanner": false,
+      "DoShowMediatedAppOpen": true,
+      "DoShowAppOpenAfterAd": false
     },
     {
       "BundleId": "com.es.trucksimulator.driving.heavytruck.offroad.trasnporter.citycargo.eurotruck.truckgame",
@@ -284,7 +353,12 @@
       "BundleVersionCode": "1.8",
       "InterstitialAdDelayTime": "8",
       "RewardedAdDelayTime": "0",
-      "AdNetworksPriority": "AUC"
+      "AdNetworksPriority": "AUC",
+      "ShowInGameAds": true,
+      "InGameAdsDelayTime": "80",
+      "DoShowMediatedBanner": false,
+      "DoShowMediatedAppOpen": true,
+      "DoShowAppOpenAfterAd": false
     },
     {
       "BundleId": "com.es.offroad.suv.driving.games.offroadcargame.hill4x4.driving.adventure",
@@ -299,7 +373,12 @@
       "BundleVersionCode": "2.3",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "0",
-      "AdNetworksPriority": "AUC"
+      "AdNetworksPriority": "AUC",
+      "ShowInGameAds": true,
+      "InGameAdsDelayTime": "80",
+      "DoShowMediatedBanner": false,
+      "DoShowMediatedAppOpen": true,
+      "DoShowAppOpenAfterAd": false
     },
     {
       "BundleId": "com.es.offroad.bmx.racing.bicycle.riding.bmx.cycle.stunt.game",
@@ -314,7 +393,12 @@
       "BundleVersionCode": "2.1",
       "InterstitialAdDelayTime": "60",
       "RewardedAdDelayTime": "0",
-      "AdNetworksPriority": "AUC"
+      "AdNetworksPriority": "AUC",
+      "ShowInGameAds": true,
+      "InGameAdsDelayTime": "80",
+      "DoShowMediatedBanner": false,
+      "DoShowMediatedAppOpen": true,
+      "DoShowAppOpenAfterAd": false
     },
     {
       "BundleId": "com.es.indiantruck.offroad.simulator.transporter.euro.driving.cargo.trucker.truckgame",
@@ -329,7 +413,12 @@
       "BundleVersionCode": "1.7",
       "InterstitialAdDelayTime": "8",
       "RewardedAdDelayTime": "0",
-      "AdNetworksPriority": "AUC"
+      "AdNetworksPriority": "AUC",
+      "ShowInGameAds": true,
+      "InGameAdsDelayTime": "80",
+      "DoShowMediatedBanner": false,
+      "DoShowMediatedAppOpen": true,
+      "DoShowAppOpenAfterAd": false
     },
     {
       "BundleId": "com.es.ultimate.coach.bus.simulator.modern.highway.bus.driving.games",
@@ -344,7 +433,12 @@
       "BundleVersionCode": "2.1",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "0",
-      "AdNetworksPriority": "AUC"
+      "AdNetworksPriority": "AUC",
+      "ShowInGameAds": true,
+      "InGameAdsDelayTime": "80",
+      "DoShowMediatedBanner": false,
+      "DoShowMediatedAppOpen": true,
+      "DoShowAppOpenAfterAd": false
     },
     {
       "BundleId": "com.es.bmx.highway.traffictour.offroad.cycleracing.motor.bikerushgames",
@@ -359,7 +453,12 @@
       "BundleVersionCode": "1.9",
       "InterstitialAdDelayTime": "6",
       "RewardedAdDelayTime": "0",
-      "AdNetworksPriority": "AUC"
+      "AdNetworksPriority": "AUC",
+      "ShowInGameAds": true,
+      "InGameAdsDelayTime": "80",
+      "DoShowMediatedBanner": false,
+      "DoShowMediatedAppOpen": true,
+      "DoShowAppOpenAfterAd": false
     },
     {
       "BundleId": "com.es.fortuner.offroad.car.driving.trucksimulation3d",
@@ -374,7 +473,12 @@
       "BundleVersionCode": "1.9",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "0",
-      "AdNetworksPriority": "AUC"
+      "AdNetworksPriority": "AUC",
+      "ShowInGameAds": true,
+      "InGameAdsDelayTime": "80",
+      "DoShowMediatedBanner": false,
+      "DoShowMediatedAppOpen": true,
+      "DoShowAppOpenAfterAd": false
     },
     {
       "BundleId": "com.es.gangster.grand.gtcarrace.vicetown.crime.city.simulator3d",
@@ -389,9 +493,12 @@
       "BundleVersionCode": "2.2",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "0",
+      "AdNetworksPriority": "AUC",
       "ShowInGameAds": true,
-      "InGameAdsDelayTime": "75",
-      "AdNetworksPriority": "AUC"
+      "InGameAdsDelayTime": "80",
+      "DoShowMediatedBanner": false,
+      "DoShowMediatedAppOpen": true,
+      "DoShowAppOpenAfterAd": false
     },
     {
       "BundleId": "com.es.xtreme.indian.rider.bikesridding.bikesdriving3d.openworld.cardriving.game",
@@ -407,8 +514,7 @@
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "0",
       "ShowInGameAds": true,
-      "InGameAdsDelayTime": "75",
-      "AdNetworksPriority": "AUC",
+      "InGameAdsDelayTime": "80",
       "DoShowMediatedBanner": false,
       "DoShowMediatedAppOpen": true,
       "DoShowAppOpenAfterAd": false
