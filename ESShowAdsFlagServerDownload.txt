@@ -70,10 +70,15 @@
       "ShowRewardedAdsFlag": true,
       "HaveFacebookRewardedAd": false,
       "HaveMultipleApks": false,
-      "BundleVersionCode": "3.1",
+      "BundleVersionCode": "3.2",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "0",
-      "AdNetworksPriority": "AUC"
+      "AdNetworksPriority": "AUC",
+      "DoShowMediatedBanner": false,
+      "DoShowMediatedAppOpen": true,
+      "DoShowAppOpenAfterAd": false,
+      "ShowInGameAds": true,
+      "InGameAdsDelayTime": "80"
     },
     {
       "BundleId": "com.extremesimulator.monster.truck.jam.truck4x4derby.crashdestruction4x4derby.mad.truck.driving.monster.legends2021",
@@ -241,12 +246,15 @@
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": false,
       "HaveMultipleApks": false,
-      "BundleVersionCode": "3.6",
+      "BundleVersionCode": "3.7",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUC",
       "ShowInGameAds": true,
-      "InGameAdsDelayTime": "80"
+      "InGameAdsDelayTime": "80",
+      "DoShowMediatedBanner": false,
+      "DoShowMediatedAppOpen": true,
+      "DoShowAppOpenAfterAd": false
     } ,
     {
       "BundleId": "com.es.trucksimulator.ultimatetruckdrivinggame.heavy.truck.drivinggames.euro.truckdriver.games",
