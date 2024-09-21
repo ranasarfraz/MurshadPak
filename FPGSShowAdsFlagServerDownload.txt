@@ -13,7 +13,12 @@
       "BundleVersionCode": "2.4",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "0",
-      "AdNetworksPriority": "AUC"
+      "AdNetworksPriority": "AUC",
+      "ShowInGameAds": true,
+      "InGameAdsDelayTime": "80",
+      "DoShowMediatedBanner": false,
+      "DoShowMediatedAppOpen": true,
+      "DoShowAppOpenAfterAd": false
     },
     {
       "BundleId": "com.fpgs.traintrack.train.station.construction.simulator.excavatorgames",
@@ -28,7 +33,12 @@
       "BundleVersionCode": "2.7",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "0",
-      "AdNetworksPriority": "AUC"
+      "AdNetworksPriority": "AUC",
+      "ShowInGameAds": true,
+      "InGameAdsDelayTime": "80",
+      "DoShowMediatedBanner": false,
+      "DoShowMediatedAppOpen": true,
+      "DoShowAppOpenAfterAd": false
     },
     {
       "BundleId": "com.fpgs.trucksimulator.truckgame.truckdriving.oiltankertransporter.eurotrucksimulator.truckgame",
@@ -44,14 +54,16 @@
       "InterstitialAdDelayTime": "10", 
       "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AU",
-      "DoPingMatters": true
+      "DoPingMatters": true,
+      "ShowInGameAds": true,
+      "InGameAdsDelayTime": "80",
+      "DoShowMediatedBanner": false,
+      "DoShowMediatedAppOpen": true,
+      "DoShowAppOpenAfterAd": false
     },
     {
       "BundleId": "com.fpgs.offroadcargame.jeep.drivingschool.car.driving.games",
       "ShowAdsFlag": true,
-      "DoShowMediatedBanner": false,
-      "DoShowMediatedAppOpen": false,
-      "DoShowAppOpenAfterAd": false,
       "ShowRewardedInterstitialAdsFlag": false,
       "ShowCustomNativeAdsFlag": true,
       "ShowAdmobNativeAdsFlag": false,
@@ -62,7 +74,12 @@
       "BundleVersionCode": "3.5",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "0",
-      "AdNetworksPriority": "AUC"
+      "AdNetworksPriority": "AUC",
+      "ShowInGameAds": true,
+      "InGameAdsDelayTime": "80",
+      "DoShowMediatedBanner": false,
+      "DoShowMediatedAppOpen": true,
+      "DoShowAppOpenAfterAd": false
     },
     {
       "BundleId": "com.fpgs.police.car.parking.driving.games.modern.prado.car.drive.games",
@@ -77,7 +94,12 @@
       "BundleVersionCode": "2.1",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "0",
-      "AdNetworksPriority": "AUC"
+      "AdNetworksPriority": "AUC",
+      "ShowInGameAds": true,
+      "InGameAdsDelayTime": "80",
+      "DoShowMediatedBanner": false,
+      "DoShowMediatedAppOpen": true,
+      "DoShowAppOpenAfterAd": false
     },
     {
       "BundleId": "com.fpgs.eurobussimulator.busdrivinggames.city.coach.bus.simulator",
@@ -92,7 +114,12 @@
       "BundleVersionCode": "2.3",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "0",
-      "AdNetworksPriority": "AUC"
+      "AdNetworksPriority": "AUC",
+      "ShowInGameAds": true,
+      "InGameAdsDelayTime": "80",
+      "DoShowMediatedBanner": false,
+      "DoShowMediatedAppOpen": true,
+      "DoShowAppOpenAfterAd": false
     },
     {
       "BundleId": "com.fpgs.heavy.cargrotransporter.trucksimulator.truckgames.uphill.truck.driver.game",
@@ -107,7 +134,12 @@
       "BundleVersionCode": "2.3",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "0",
-      "AdNetworksPriority": "AUC"
+      "AdNetworksPriority": "AUC",
+      "ShowInGameAds": true,
+      "InGameAdsDelayTime": "80",
+      "DoShowMediatedBanner": false,
+      "DoShowMediatedAppOpen": true,
+      "DoShowAppOpenAfterAd": false
     },
     {
       "BundleId": "com.fpgs.mudtruck.offroad.suvjeep.driving.games.muddriving.simulatorgames",
@@ -122,15 +154,16 @@
       "BundleVersionCode": "3.0",
       "InterstitialAdDelayTime": "6",
       "RewardedAdDelayTime": "0",
-      "AdNetworksPriority": "AUC"
+      "AdNetworksPriority": "AUC",
+      "ShowInGameAds": true,
+      "InGameAdsDelayTime": "80",
+      "DoShowMediatedBanner": false,
+      "DoShowMediatedAppOpen": true,
+      "DoShowAppOpenAfterAd": false
     },
     {
       "BundleId": "com.fpgs.xtrememotor.bikes.realhighway.bikeracing.motortourgames",
       "ShowAdsFlag": true,
-      "ShowInGameAds": true,
-      "DoShowMediatedBanner": false,
-      "DoShowMediatedAppOpen": false,
-      "DoShowAppOpenAfterAd": false,
       "ShowRewardedInterstitialAdsFlag": false,
       "ShowCustomNativeAdsFlag": true,
       "ShowAdmobNativeAdsFlag": false,
@@ -141,8 +174,12 @@
       "BundleVersionCode": "5.4",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "0",
+      "AdNetworksPriority": "AUC",
+      "ShowInGameAds": true,
       "InGameAdsDelayTime": "80",
-      "AdNetworksPriority": "AUC"
+      "DoShowMediatedBanner": false,
+      "DoShowMediatedAppOpen": false,
+      "DoShowAppOpenAfterAd": false
     },
     {
       "BundleId": "com.fpgs.offroad.bmx.bike.riding.cycling.game.cycle.stunt.ridergames",
@@ -157,7 +194,12 @@
       "BundleVersionCode": "3.3",
       "InterstitialAdDelayTime": "8",
       "RewardedAdDelayTime": "0",
-      "AdNetworksPriority": "AUC"
+      "AdNetworksPriority": "AUC",
+      "ShowInGameAds": true,
+      "InGameAdsDelayTime": "80",
+      "DoShowMediatedBanner": false,
+      "DoShowMediatedAppOpen": true,
+      "DoShowAppOpenAfterAd": false
     },
     {
       "BundleId": "com.fpgs.mudtruckdriving.mudracing.trucksimulator.driving.mudtruck.offroad.cargo.truckgame",
@@ -172,7 +214,12 @@
       "BundleVersionCode": "2.0",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "0",
-      "AdNetworksPriority": "AUC"
+      "AdNetworksPriority": "AUC",
+      "ShowInGameAds": true,
+      "InGameAdsDelayTime": "80",
+      "DoShowMediatedBanner": false,
+      "DoShowMediatedAppOpen": true,
+      "DoShowAppOpenAfterAd": false
     },
     {
       "BundleId": "com.fpgs.ultimatetrucksimulator.drivingschool.offroad.cargo.euro.truck.games",
@@ -187,7 +234,12 @@
       "BundleVersionCode": "2.3",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "0",
-      "AdNetworksPriority": "AUC"
+      "AdNetworksPriority": "AUC",
+      "ShowInGameAds": true,
+      "InGameAdsDelayTime": "80",
+      "DoShowMediatedBanner": false,
+      "DoShowMediatedAppOpen": true,
+      "DoShowAppOpenAfterAd": false
     },
     {
       "BundleId": "com.fpgs.real.eurotruck.driving.indian.cargo.truck.transporter.simulator",
@@ -202,7 +254,12 @@
       "BundleVersionCode": "1.7",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "0",
-      "AdNetworksPriority": "AUC"
+      "AdNetworksPriority": "AUC",
+      "ShowInGameAds": true,
+      "InGameAdsDelayTime": "80",
+      "DoShowMediatedBanner": false,
+      "DoShowMediatedAppOpen": true,
+      "DoShowAppOpenAfterAd": false
     },
     {
       "BundleId": "com.fpgs.mudtruck.transport.offroad.euro.indian.mud.truck.driver",
@@ -217,7 +274,12 @@
       "BundleVersionCode": "1.8",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "0",
-      "AdNetworksPriority": "AUC"
+      "AdNetworksPriority": "AUC",
+      "ShowInGameAds": true,
+      "InGameAdsDelayTime": "80",
+      "DoShowMediatedBanner": false,
+      "DoShowMediatedAppOpen": true,
+      "DoShowAppOpenAfterAd": false
     },
     {
       "BundleId": "com.fpgs.coachbus.simulator.offroad.indian.busdriving.citybus.drivingbusgames",
@@ -232,7 +294,12 @@
       "BundleVersionCode": "1.6",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "0",
-      "AdNetworksPriority": "AUC"
+      "AdNetworksPriority": "AUC",
+      "ShowInGameAds": true,
+      "InGameAdsDelayTime": "80",
+      "DoShowMediatedBanner": false,
+      "DoShowMediatedAppOpen": true,
+      "DoShowAppOpenAfterAd": false
     },
     {
       "BundleId": "com.fpgs.offroad.delivery.indiantruck.driving.trucksimulator.heavytruck.offroad.truckgame",
@@ -247,7 +314,12 @@
       "BundleVersionCode": "1.8",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "0",
-      "AdNetworksPriority": "AUC"
+      "AdNetworksPriority": "AUC",
+      "ShowInGameAds": true,
+      "InGameAdsDelayTime": "80",
+      "DoShowMediatedBanner": false,
+      "DoShowMediatedAppOpen": true,
+      "DoShowAppOpenAfterAd": false
     },
     {
       "BundleId": "com.fpgs.bike.games.motoextremeracing.highway.trafficracer.motorcyclesimulation",
@@ -264,7 +336,10 @@
       "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUC",
       "ShowInGameAds": true,
-      "InGameAdsDelayTime": "80"
+      "InGameAdsDelayTime": "80",
+      "DoShowMediatedBanner": false,
+      "DoShowMediatedAppOpen": false,
+      "DoShowAppOpenAfterAd": false
     },
     {
       "BundleId": "com.fpgs.bmx.cycle.race.xtremeoffroad.bmxrider.stunts.highway.cycle.bmxgames",
@@ -276,10 +351,15 @@
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": true,
       "HaveMultipleApks": false,
-      "BundleVersionCode": "1.8",
+      "BundleVersionCode": "1.9",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "0",
-      "AdNetworksPriority": "AUC"
+      "AdNetworksPriority": "AUC",
+      "ShowInGameAds": true,
+      "InGameAdsDelayTime": "90",
+      "DoShowMediatedBanner": false,
+      "DoShowMediatedAppOpen": true,
+      "DoShowAppOpenAfterAd": false
     },
     {
       "BundleId": "com.fpgs.coachbus.bussimulator.citybus.drivinggame.offroad.busdriving.busgames",
@@ -294,7 +374,12 @@
       "BundleVersionCode": "2.3",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "0",
-      "AdNetworksPriority": "AUC"
+      "AdNetworksPriority": "AUC",
+      "ShowInGameAds": true,
+      "InGameAdsDelayTime": "80",
+      "DoShowMediatedBanner": false,
+      "DoShowMediatedAppOpen": true,
+      "DoShowAppOpenAfterAd": false
     },
     {
       "BundleId": "com.fpgs.trucksimulator.oiltanker.driving.cargo.eurotruck.truckdriver.truckgame",
@@ -309,7 +394,12 @@
       "BundleVersionCode": "2.4",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "0",
-      "AdNetworksPriority": "AUC"
+      "AdNetworksPriority": "AUC",
+      "ShowInGameAds": true,
+      "InGameAdsDelayTime": "80",
+      "DoShowMediatedBanner": false,
+      "DoShowMediatedAppOpen": true,
+      "DoShowAppOpenAfterAd": false
     },
     {
       "BundleId": "com.fpgs.vegas.gangster.theft.simulator.city.auto.mafia.crime.games",
@@ -325,14 +415,14 @@
       "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AU",
       "ShowInGameAds": true,
-      "InGameAdsDelayTime": "90"
+      "InGameAdsDelayTime": "80",
+      "DoShowMediatedBanner": false,
+      "DoShowMediatedAppOpen": true,
+      "DoShowAppOpenAfterAd": false
     },
     {
       "BundleId": "com.fpgs.spiderboy.ropehero.vegascity.bikeracing.vicetown",
       "ShowAdsFlag": true,
-      "DoShowMediatedBanner": false,
-      "DoShowMediatedAppOpen": false,
-      "DoShowAppOpenAfterAd": false,
       "ShowRewardedInterstitialAdsFlag": false,
       "ShowCustomNativeAdsFlag": true,
       "ShowAdmobNativeAdsFlag": false,
@@ -343,14 +433,16 @@
       "BundleVersionCode": "1.8", 
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "0",
-      "AdNetworksPriority": "AU"
+      "AdNetworksPriority": "AU",
+      "ShowInGameAds": true,
+      "InGameAdsDelayTime": "80",
+      "DoShowMediatedBanner": false,
+      "DoShowMediatedAppOpen": true,
+      "DoShowAppOpenAfterAd": false
     },
     {
       "BundleId": "com.fpgs.water.color.sort.embark.glass.sort.wooden.woody.puzzle",
       "ShowAdsFlag": true,
-      "DoShowMediatedBanner": false,
-      "DoShowMediatedAppOpen": false,
-      "DoShowAppOpenAfterAd": false,
       "ShowRewardedInterstitialAdsFlag": false,
       "ShowCustomNativeAdsFlag": true,
       "ShowAdmobNativeAdsFlag": false,
@@ -361,14 +453,16 @@
       "BundleVersionCode": "1.0", 
       "InterstitialAdDelayTime": "6",
       "RewardedAdDelayTime": "0",
-      "AdNetworksPriority": "AU"
+      "AdNetworksPriority": "AU",
+      "ShowInGameAds": true,
+      "InGameAdsDelayTime": "80",
+      "DoShowMediatedBanner": false,
+      "DoShowMediatedAppOpen": true,
+      "DoShowAppOpenAfterAd": false
     },
     {
       "BundleId": "com.fpgs.number.master.run.larger123games.run9999games",
       "ShowAdsFlag": true,
-      "DoShowMediatedBanner": false,
-      "DoShowMediatedAppOpen": false,
-      "DoShowAppOpenAfterAd": false,
       "ShowRewardedInterstitialAdsFlag": false,
       "ShowCustomNativeAdsFlag": true,
       "ShowAdmobNativeAdsFlag": false,
@@ -379,7 +473,12 @@
       "BundleVersionCode": "1.2", 
       "InterstitialAdDelayTime": "6",
       "RewardedAdDelayTime": "0",
-      "AdNetworksPriority": "AU"
+      "AdNetworksPriority": "AU",
+      "ShowInGameAds": true,
+      "InGameAdsDelayTime": "80",
+      "DoShowMediatedBanner": false,
+      "DoShowMediatedAppOpen": true,
+      "DoShowAppOpenAfterAd": false
     }
   ]
 }
