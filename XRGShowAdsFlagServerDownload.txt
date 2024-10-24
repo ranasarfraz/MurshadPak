@@ -153,7 +153,9 @@
       "InGameAdsDelayTime": "80",
       "DoShowMediatedBanner": false,
       "DoShowMediatedAppOpen": true,
-      "DoShowAppOpenAfterAd": false
+      "DoShowAppOpenAfterAd": false,
+      "DoShowAppOpenAdsFlag": true,
+      "DoShowAdsOnVehiclePickup": true
     }
   ]
 }
