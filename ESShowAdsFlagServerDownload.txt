@@ -508,7 +508,7 @@
       "ShowAdmobNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
-      "IsAdmobLimited": false,
+      "IsAdmobLimited": true,
       "HaveMultipleApks": false,
       "BundleVersionCode": "1.8",
       "InterstitialAdDelayTime": "10",
