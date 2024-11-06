@@ -356,9 +356,9 @@
       "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUC",
       "ShowInGameAds": true,
-      "InGameAdsDelayTime": "90",
-      "DoShowMediatedBanner": false,
-      "DoShowMediatedAppOpen": true,
+      "InGameAdsDelayTime": "70",
+      "DoShowMediatedBanner": true,
+      "DoShowMediatedAppOpen": false,
       "DoShowAppOpenAfterAd": false
     },
     {
