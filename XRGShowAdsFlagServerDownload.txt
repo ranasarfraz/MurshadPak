@@ -53,12 +53,17 @@
       "ShowAdmobNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
-      "IsAdmobLimited": false,
+      "IsAdmobLimited": true,
       "HaveMultipleApks": false,
       "BundleVersionCode": "1.8",
       "InterstitialAdDelayTime": "40",
       "RewardedAdDelayTime": "0",
-      "AdNetworksPriority": "AUC"
+      "AdNetworksPriority": "AUC",
+      "DoShowMediatedBanner": true,
+      "DoShowMediatedAppOpen": true,
+      "DoShowAppOpenAfterAd": false,
+      "DoShowAppOpenAdsFlag": true,
+      "DoShowAdsOnVehiclePickup": true
     },
     {
       "BundleId": "com.xrg.real.bmx.rider.offroad.cycling.bike.adventure.stunts.bicycle.games",
