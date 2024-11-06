@@ -515,7 +515,7 @@
       "RewardedAdDelayTime": "0",
       "ShowInGameAds": true,
       "InGameAdsDelayTime": "65",
-      "DoShowMediatedBanner": false,
+      "DoShowMediatedBanner": true,
       "DoShowMediatedAppOpen": true,
       "DoShowAppOpenAfterAd": false
     }                                                        
