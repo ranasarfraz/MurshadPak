@@ -418,7 +418,7 @@
       "ShowInGameAds": true,
       "InGameAdsDelayTime": "80",
       "DoShowMediatedBanner": false,
-      "DoShowMediatedAppOpen": true,
+      "DoShowMediatedAppOpen": false,
       "DoShowAppOpenAfterAd": false
     },
     {
