@@ -171,7 +171,7 @@
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": false,
       "HaveMultipleApks": true,
-      "BundleVersionCode": "6.0",
+      "BundleVersionCode": "6.1",
       "InterstitialAdDelayTime": "5",
       "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUC",
