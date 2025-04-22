@@ -33,6 +33,7 @@
     {
       "BundleId": "com.xrg.coach.bus.games.simulator.bussimulatorgames",
       "ShowAdsFlag": true,
+      "ShowAppOpenAdsFlag": false,
       "ShowRewardedInterstitialAdsFlag": false,
       "ShowCustomNativeAdsFlag": true,
       "ShowAdmobNativeAdsFlag": false,
@@ -43,7 +44,12 @@
       "BundleVersionCode": "1.9",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "0",
-      "AdNetworksPriority": "AUC"
+      "AdNetworksPriority": "AUC",
+      "ShowInGameAds": true,
+      "InGameAdsDelayTime": "80",
+      "DoShowMediatedBanner": false,
+      "DoShowMediatedAppOpen": false,
+      "DoShowAppOpenAfterAd": false
     },
     {
       "BundleId": "com.xrg.offroadtrucksimulator.offroadtruckgames.cargo.trailer.delivery.eurotruckgames",
@@ -113,6 +119,7 @@
     {
       "BundleId": "com.xrg.real.cargames.driving.school.city.car.racing.parkingsimulator",
       "ShowAdsFlag": true,
+      "ShowAppOpenAdsFlag": false,
       "ShowRewardedInterstitialAdsFlag": false,
       "ShowCustomNativeAdsFlag": true,
       "ShowAdmobNativeAdsFlag": false,
@@ -123,7 +130,12 @@
       "BundleVersionCode": "2.3",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "0",
-      "AdNetworksPriority": "AUC"
+      "AdNetworksPriority": "AUC",
+      "ShowInGameAds": true,
+      "InGameAdsDelayTime": "80",
+      "DoShowMediatedBanner": false,
+      "DoShowMediatedAppOpen": false,
+      "DoShowAppOpenAfterAd": false
     },
     {
       "BundleId": "com.xrg.carcrash.mega.car.crash.simulator.crashgame.compilation.crashing",
