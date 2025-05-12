@@ -347,8 +347,8 @@
     },
     {
       "BundleId": "com.es.offroad.suv.driving.games.offroadcargame.hill4x4.driving.adventure",
-      "ShowAdsFlag": false,
-      "ShowAppOpenAdsFlag": false,
+      "ShowAdsFlag": true,
+      "ShowAppOpenAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
