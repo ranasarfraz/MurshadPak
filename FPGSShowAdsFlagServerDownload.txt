@@ -476,6 +476,26 @@
       "DoShowMediatedBanner": false,
       "DoShowMediatedAppOpen": true,
       "DoShowAppOpenAfterAd": false
+    },
+    {
+      "BundleId": "com.fpgs.worms.snakerun.clash3dgame.snakemerge.idlerun",
+      "ShowAdsFlag": true,
+      "ShowRewardedInterstitialAdsFlag": true,
+      "ShowCustomNativeAdsFlag": true,
+      "ShowAdmobNativeAdsFlag": false,
+      "ShowBannerAdsFlag": true,
+      "ShowRewardedAdsFlag": true,
+      "IsAdmobLimited": false,
+      "HaveMultipleApks": false, 
+      "BundleVersionCode": "1.0", 
+      "InterstitialAdDelayTime": "6",
+      "RewardedAdDelayTime": "0",
+      "AdNetworksPriority": "AU",
+      "ShowInGameAds": true,
+      "InGameAdsDelayTime": "80",
+      "DoShowMediatedBanner": false,
+      "DoShowMediatedAppOpen": false,
+      "DoShowAppOpenAfterAd": false
     }
   ]
 }
