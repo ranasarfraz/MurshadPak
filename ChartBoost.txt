@@ -1,6 +1,6 @@
 {
-    "FirstGameBundleID":"com.fpgs.vegas.gangster.theft.simulator.city.auto.mafia.crime.games",
-    "Gameurl1": "https://play.google.com/store/apps/details?id=com.fpgs.vegas.gangster.theft.simulator.city.auto.mafia.crime.games",
+    "FirstGameBundleID":"com.fpgs.worms.snakerun.clash3dgame.snakemerge.idlerun",
+    "Gameurl1": "https://play.google.com/store/apps/details?id=com.fpgs.worms.snakerun.clash3dgame.snakemerge.idlerun",
     "Gameurl2": "https://play.google.com/store/apps/details?id=com.fpgs.spiderboy.ropehero.vegascity.bikeracing.vicetown"
 }
 
