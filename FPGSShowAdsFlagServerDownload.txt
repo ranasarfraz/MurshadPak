@@ -17,7 +17,7 @@
       "ShowInGameAds": true,
       "InGameAdsDelayTime": "80",
       "DoShowMediatedBanner": false,
-      "DoShowMediatedAppOpen": true,
+      "DoShowMediatedAppOpen": false,
       "DoShowAppOpenAfterAd": false
     },
     {
@@ -118,7 +118,7 @@
       "ShowInGameAds": true,
       "InGameAdsDelayTime": "80",
       "DoShowMediatedBanner": false,
-      "DoShowMediatedAppOpen": true,
+      "DoShowMediatedAppOpen": false,
       "DoShowAppOpenAfterAd": false
     },
     {
@@ -151,14 +151,14 @@
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": false,
       "HaveMultipleApks": false,
-      "BundleVersionCode": "3.2",
+      "BundleVersionCode": "3.3",
       "InterstitialAdDelayTime": "6",
       "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUC",
       "ShowInGameAds": true,
       "InGameAdsDelayTime": "80",
       "DoShowMediatedBanner": false,
-      "DoShowMediatedAppOpen": true,
+      "DoShowMediatedAppOpen": false,
       "DoShowAppOpenAfterAd": false
     },
     {
@@ -214,7 +214,7 @@
       "ShowInGameAds": true,
       "InGameAdsDelayTime": "80",
       "DoShowMediatedBanner": false,
-      "DoShowMediatedAppOpen": true,
+      "DoShowMediatedAppOpen": false,
       "DoShowAppOpenAfterAd": false
     },
     {
@@ -234,7 +234,7 @@
       "ShowInGameAds": true,
       "InGameAdsDelayTime": "80",
       "DoShowMediatedBanner": false,
-      "DoShowMediatedAppOpen": true,
+      "DoShowMediatedAppOpen": false,
       "DoShowAppOpenAfterAd": false
     },
     {
@@ -247,14 +247,14 @@
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": false,
       "HaveMultipleApks": false,
-      "BundleVersionCode": "1.7",
+      "BundleVersionCode": "1.8",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUC",
       "ShowInGameAds": true,
       "InGameAdsDelayTime": "80",
       "DoShowMediatedBanner": false,
-      "DoShowMediatedAppOpen": true,
+      "DoShowMediatedAppOpen": false,
       "DoShowAppOpenAfterAd": false
     },
     {
@@ -307,14 +307,14 @@
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": false,
       "HaveMultipleApks": false,
-      "BundleVersionCode": "1.9",
+      "BundleVersionCode": "2.0",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUC",
       "ShowInGameAds": true,
       "InGameAdsDelayTime": "80",
       "DoShowMediatedBanner": false,
-      "DoShowMediatedAppOpen": true,
+      "DoShowMediatedAppOpen": false,
       "DoShowAppOpenAfterAd": false
     },
     {
@@ -327,7 +327,7 @@
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": false,
       "HaveMultipleApks": false,
-      "BundleVersionCode": "3.1",
+      "BundleVersionCode": "3.2",
       "InterstitialAdDelayTime": "6",
       "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUC",
@@ -367,14 +367,14 @@
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": false,
       "HaveMultipleApks": false,
-      "BundleVersionCode": "2.4",
+      "BundleVersionCode": "2.5",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUC",
       "ShowInGameAds": true,
       "InGameAdsDelayTime": "80",
       "DoShowMediatedBanner": false,
-      "DoShowMediatedAppOpen": true,
+      "DoShowMediatedAppOpen": false,
       "DoShowAppOpenAfterAd": false
     },
     {
@@ -387,14 +387,14 @@
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": false,
       "HaveMultipleApks": false,
-      "BundleVersionCode": "2.5",
+      "BundleVersionCode": "2.6",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUC",
       "ShowInGameAds": true,
       "InGameAdsDelayTime": "80",
       "DoShowMediatedBanner": false,
-      "DoShowMediatedAppOpen": true,
+      "DoShowMediatedAppOpen": false,
       "DoShowAppOpenAfterAd": false
     },
     {
@@ -454,7 +454,7 @@
       "ShowInGameAds": true,
       "InGameAdsDelayTime": "80",
       "DoShowMediatedBanner": false,
-      "DoShowMediatedAppOpen": true,
+      "DoShowMediatedAppOpen": false,
       "DoShowAppOpenAfterAd": false
     },
     {
