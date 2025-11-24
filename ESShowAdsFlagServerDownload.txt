@@ -8,7 +8,7 @@
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "HaveMultipleApks": false,
-      "BundleVersionCode": "4.6",
+      "BundleVersionCode": "4.7",
       "InterstitialAdDelayTime": "6",
       "RewardedAdDelayTime": "0",
       "ShowInGameAds": true,
